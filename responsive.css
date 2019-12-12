@@ -1,0 +1,731 @@
+/*******************  RESPONISVE RULZ  ***********************/
+
+
+ @media screen and (max-width: 1280px) {
+    
+    /* MONEY BACK    */
+    #investment-protect .money-back {
+    width: 80%;}
+    
+    #investment-protect p {
+    padding: 0 15px;}
+    
+    
+    
+     /* SUPPORT NEED START    */
+     div#support-need {
+    width: 100%;
+    min-height: 690px;
+    background: #0255a3;
+    padding: 60px 0px;
+    padding-bottom: 25px;
+    text-align: center;}    
+    
+    div#support-need {
+    padding: 40px 0px;}
+    
+}
+
+@media screen and (max-width: 1199px) {
+    
+    /* FOREX PROJECT DESIGN   */
+    
+    div#fpdesign .container {
+   width: 100%;}   
+   
+   .fpdesign_inner .col-md-4.order-now.text-left {
+    padding-left: 40px;
+    padding-right: 0;}
+        
+    .fpdesign_inner ul.first li img {
+    margin-right: 11px;}
+    
+    
+   
+   
+   /* GET STARTED    */ 
+      div#getstarted {
+    padding: 70px 0px;
+    padding-bottom: 60px;}    
+   
+    .support_inner p.subhd {
+    width: 70%;}
+    
+    
+    
+    
+}
+@media screen and (max-width: 1100px) {   
+     /* FOREX PROJECT DESIGN   */
+     .fpdesign_inner p a.order {
+    margin-left: -71px;}
+}
+
+
+@media screen and (max-width: 1024px) {
+    
+    /* FOREX PROJECT DESIGN   */
+    .fpdesign_inner p a.order {
+    margin-left: -172px;}
+    
+    .fpdesign_inner .col-md-5.money-back.text-left {
+    width: 100%;
+    text-align: center;
+    display: inline-block;}
+    
+   .fpdesign_inner .col-md-4.order-now.text-left {
+    width: 45%;
+    display: inline-block;
+    margin-left: 80px;
+    float: left;}
+    
+    .fpdesign_inner .col-md-3.today-price.text-left {
+    width: 36%;
+    text-align: right;
+    float: left;
+    display: inline-block;}
+    
+    
+    .fpdesign_inner p.price  {
+    padding-left: 62px;}
+    
+    .fpdesign_inner h2 {
+    margin-bottom: 32px;}
+    
+    .cards ul.visa {
+    margin-bottom: 45px;}
+    
+    .support_inner p.subhd {
+    width: 70%;}
+    
+    
+    
+}
+
+@media screen and (max-width: 992px) {
+    
+    /*    */
+    
+    
+}
+
+@media screen and (max-width: 991px) {
+    
+    /* MONEY BACK */
+    #investment-protect .money-back {
+    width: 100%;}
+   
+   
+      
+    /* FOREX PROJECT DESIGN   */ 
+    .fpdesign_inner p a.order {
+    margin-left: -158px;}
+    
+    .fpdesign_inner p.price {
+    padding-left: 0px;}
+    
+}
+
+@media screen and (max-width: 800px) {
+    
+   /* FOREX PROJECT DESIGN   */ 
+    .fpdesign_inner p a.order {
+    margin-left: -74px;}
+    
+    .cards h3 {
+    font-size: 15px;  
+    text-align: center;}
+    
+    .fpdesign_inner p.price  {
+     padding-left: 0px;} 
+    
+}
+
+@media screen and (max-width: 768px) {
+    
+    /* FOREX PROJECT DESIGN   */ 
+     .fpdesign_inner p a.order {
+    margin-left: -51px;} 
+    
+   
+    
+    
+    
+}
+
+@media screen and (max-width: 767px) {
+    
+   /* FOREX PROJECT DESIGN   */ 
+     .fpdesign_inner p a.order {
+    margin-left: -124px;}
+    
+    .fpdesign_inner .col-md-4.order-now.text-left {
+    width: 55%;
+    margin-left: 23px;}
+    
+    .fpdesign_inner p.price  {
+    padding-left: 27px;}
+    
+    .fpdesign_inner p.price ,
+    .fpdesign_inner p.white {
+    font-size: 28px;}
+   
+   
+    /* GET STARTED   */  
+     div#getstarted p {
+    font-size: 15px;
+    padding: 0 30px;}
+    
+    div#getstarted h2 {
+    font-size: 33px;}
+    
+    div#getstarted h3 {
+    font-size: 20px;
+    padding: 0 50px;}
+    
+    /* TRADING PROPERTY    */
+    
+    #trading-profit .details p {
+    width: 100%;
+    text-align: center;
+    padding: 0 5px;
+    display: inline-block;}
+    
+    /* TOP FEATURES    */
+    #top-features .col-sm-8.content {
+    width: 100%;
+    display: inline-block;
+    text-align: center;
+    margin-top: 25px;
+    margin-left: 14px;}
+    
+    #top-features ul {
+    display: inline-block;
+    text-align: center;
+    width: 33.333%;}
+    
+    /*******TESTING YEARS******/
+    .panel-body .addition_info {
+    width: 100%!important;
+    display: inline-block!important;
+    margin: 0 auto!important;}
+    
+    #testing-years .addition_info h3 {
+    width: 100%!important;
+    display: inline-block!important;
+    margin: 0 0!important;
+    text-align: center!important;}
+
+}
+
+@media screen and (max-width: 686px) {
+   
+   /* FOREX PROJECT DESIGN   */ 
+   .fpdesign_inner p.price , 
+   .fpdesign_inner p.white {
+   font-size: 24px;}
+   
+   .fpdesign_inner p.price {
+    padding-left: 37px;}
+    
+   .fpdesign_inner p a.order {
+   margin-left: -82px;}
+   
+   .fpdesign_inner .col-md-4.order-now.text-left {
+   margin-left: 2px;}
+   
+   .fpdesign_inner h2 {
+    font-size: 33px;}
+ 
+    
+}
+
+@media screen and (max-width: 700px) {
+    
+    /*****PROTECT ACCOUNT*/
+    #protect-account .title_info h2 {
+    font-size: 32px;}
+    
+    
+    
+}
+@media screen and (max-width: 667px) {
+    
+    /* FOREX PROJECT DESIGN   */    
+    .fpdesign_inner .col-md-4.order-now.text-left {
+    width: 57%;
+    margin-left: 0px;}
+    
+    .support_inner p.subhd {
+    width: 90%;} 
+}
+
+@media screen and (max-width: 641px) {
+    
+    
+    /* FOREX PROJECT DESIGN   */ 
+    .fpdesign_inner p.price , 
+    .fpdesign_inner p.white {
+    font-size: 23px;}
+    
+    
+    .fpdesign_inner p.price{
+    padding-left: 23px;}
+  
+  
+  .fpdesign_inner ul.first li a {
+  font-size: 15px;}
+  
+  .fpdesign_inner p a.order {
+    margin-left: -71px;}
+    
+}
+
+@media screen and (max-width: 600px) {
+    
+    /* FOREX PROJECT DESIGN   */ 
+    .fpdesign_inner {
+    padding-top: 35px;}
+    
+   .fpdesign_inner h2 {
+    margin-bottom: 63px;
+    font-size: 40px;
+    width: 83%;
+    display: inline-block;}
+    
+    .fpdesign_inner .col-md-4.order-now.text-left {
+    width: 100%;
+    margin-left: 105px;}
+    
+    .fpdesign_inner ul.first li a {
+    font-size: 17px;}
+    
+    .fpdesign_inner ul.first {
+    width: 80%;}
+    
+    .fpdesign_inner p {
+    text-align: left;}
+    
+    .fpdesign_inner p.price {
+    text-align: left;}
+    
+    .fpdesign_inner p a.order {
+    margin-left: 0px;}
+    
+    .col-md-3.today-price.text-left {
+    width: 100%;
+    display: inline-block;
+    text-align: center;}
+    
+    .fpdesign_inner .col-md-3.today-price.text-left {
+    width: 100%;
+    text-align: center;
+    float: none;
+    display: inline-block;}
+    
+    .fpdesign_inner p.price {
+    text-align: center;
+    font-size: 30px;}
+    
+    .fpdesign_inner p.white {
+    font-size: 30px;}
+    
+    .cards h3 {
+    font-size: 18px;
+    text-align: center;
+    padding: 0 10px;}
+    
+    
+     /* SUPPORT YOU NEED   */ 
+    .support_inner p.subhd {
+    width: 84%;}
+    
+    .support-one {
+    margin-bottom: 55px;
+    width: 100%;
+    display: inline-block;}
+    
+    .support-cont {
+    width: 86%;}
+    
+     /* DOWNLOAD RISK   */ 
+    div#download-risk h3 {
+    font-size: 25px;
+    width: 100%;
+    display: inline-block;}
+    
+    div#download-risk h4 {
+    font-size: 19px;
+    padding-top: 10px;
+    height: 30px;}
+    
+    
+    div#download-risk .download_inner .three_Step {
+    min-height: 200px;}
+    
+    div#download-risk {
+    min-height: 490px;}
+    
+     /* TRADING PROFIT   */ 
+   #trading-profit h3 {
+    padding: 0 10px;
+    font-size: 30px;} 
+    
+     /* TOP FEATURES    */
+    #top-features ul {
+    width: 45%;}
+}
+@media screen and (max-width: 500px) {
+    
+    /* MONEY BACK */
+   #investment-protect .title_info h2 {
+    color: #fff;
+    font-size: 34px;}
+    
+    #investment-protect h3 {
+    font-size: 28px;}
+    
+    /* FOREX PROJECT DESIGN */
+    .fpdesign_inner h2 {
+   font-size: 33px;}
+   
+   .fpdesign_inner .col-md-4.order-now.text-left {
+   margin-left: 63px;}
+   
+   .cards h3 {
+    font-size: 16px;}
+    
+  /* SUPPORT YOU NEED */
+    .support_inner p.subhd {
+    font-size: 15px;}
+    
+    .support-cont p.boxtext {
+    font-size: 13px;
+    line-height: 21px;}
+    
+    .support-cont h4 {
+    font-size: 17px;}
+    
+    div#support-need h3 {
+    font-size: 38px;}
+    
+   /* TOP FEATURES    */
+    #top-features ul {
+    width: 48%;}
+    
+    #top-features .col-sm-8.content {
+    margin-left: 15px;}
+    
+    #top-features ul li a {
+    font-size: 13px;}
+    
+     /*****PROTECT ACCOUNT*/
+    #protect-account .title_info span {
+    font-size: 70px;}
+    
+    #protect-account .title_info h2 {
+    margin: -77px 0 0 0;}
+    
+    
+     /* TRADING TOOL   */
+   #trading-tool .title_info h2 {
+    font-size: 33px;
+    margin: -52px 0 0 0;}
+    
+    #trading-tool h3 {
+    font-size: 30px;}
+   
+}
+
+@media screen and (max-width: 480px) {
+    
+    /* FOREX PROJECT DESIGN */
+    .fpdesign_inner .col-md-4.order-now.text-left {
+    margin-left: 30px;}
+    
+    .fpdesign_inner p.price {
+    padding-left: 0;}
+
+    .fpdesign_inner ul.first li a {
+    font-size: 16px;}
+    
+    .cards h3 {
+    font-size: 14px;}
+    
+    .fpdesign_inner ul.first {
+    width: 100%;}
+    
+    /* SUPPORT YOU NEED */
+   .support-cont {
+    width: 73%;}
+
+    .support_inner p.subhd {
+    font-size: 14px;
+    width: 95%;} 
+   /* DOWNLOAD RISKD */
+    div#download-risk h3 {
+    font-size: 20px;
+    margin-bottom: 30px;}   
+    
+    
+    div#download-risk h4 {
+    font-size: 15px;
+    padding-top: 0px;    
+    font-weight: 700;}
+    
+    div#download-risk .download_inner .three_Step {
+    min-height: 185px;}
+    
+    div#download-risk {
+    min-height: 440px;}
+    
+    /* TOP FEATURES    */
+    #top-features ul {
+    width: 49%;}
+         
+    #top-features ul li a {
+    font-size: 13px;}
+    
+    
+     /*****PROTECT ACCOUNT*/
+    #protect-account .title_info span {
+    font-size: 67px;}
+    
+    #protect-account .title_info h2 {
+    margin: -77px 0 0 0;}
+    
+}
+
+@media screen and (max-width: 400px) {
+    
+   /* MONEY BACK START */
+   #investment-protect .title_info h2 {
+    color: #fff;
+    font-size: 32px;}
+    
+    #investment-protect h3 {
+    font-size: 26px;}
+    
+    #investment-protect p {
+    font-size: 15px;}
+    
+    #investment-protect .money-back h4 {
+    font-size: 22px;}
+    
+    #investment-protect .money-back h5 {
+    font-size: 17px;
+    padding: 0 15px;}
+    
+    /* FOOTER */
+    
+    .footer_inner p {
+   font-size: 16px;}
+   
+   
+   /* FROEX PROJECT DESIGN */
+    .fpdesign_inner .col-md-4.order-now.text-left {
+    margin-left: 15px;}
+    
+     .fpdesign_inner .col-md-4.order-now.text-left {
+    margin-left: 6px;}
+    
+    /* GET STARTED */
+     div#getstarted p {
+    font-size: 14px;
+    padding: 0 40px;}
+    
+    div#getstarted h2 {
+    font-size: 27px;}
+    
+    div#getstarted h3 {
+    font-size: 17px;
+    padding: 0 50px;}
+    /* SUPPORT YOU NEED */
+    div#support-need h3 {
+    font-size: 30px;}
+     /* DOWNLOAD RISK */
+    div#download-risk h3 {
+    font-size: 20px;
+    margin-bottom: 59px;}
+    
+    div#download-risk h4 {
+    font-size: 16px;
+    width: 80%;
+    display: inline-block;}
+    
+    div#download-risk .download_inner .three_Step {
+    min-height: 160px;}
+    
+    /* TOP FEATURES    */
+    #top-features ul {
+    width: 49%;}
+    
+    #top-features .col-sm-8.content {
+    margin-left: 11px;}
+    
+    #top-features .title_info span {
+    font-size: 62px;}
+    
+    #top-features .title_info h2 {
+    margin: -61px 0 0 0;}
+    
+   #trading-profit .title_info span {
+    font-size: 62px;}
+    
+    #trading-profit .title_info h2 {
+    margin: -61px 0 0 0;}
+    
+    
+     /*****PROTECT ACCOUNT*/
+    #protect-account .title_info span {
+    font-size: 57px;}
+    
+    #protect-account .title_info h2 {
+    margin: -73px 0 0 0;}
+    
+}
+@media screen and (max-width: 399px) {
+    
+    /* TOP FEATURES    */
+    #top-features ul {
+    width: 100%;}
+    
+    #top-features ul li a {
+    font-size: 15px;}
+    
+    #top-features .col-sm-8.content {
+    margin-left: 7px;}
+    
+    #top-features .title_info span {
+    font-size: 55px!important;}
+    
+    #top-features .title_info h2 {
+    margin: -55px 0 0 0!important;}
+    
+    
+    #trading-profit .title_info span {
+    font-size: 55px!important;}
+    
+    #trading-profit .title_info h2 {
+    margin: -55px 0 0 0!important;}
+    
+}
+@media screen and (max-width: 360px) {
+     /* FOREX PROJECT DESIGN */
+    .fpdesign_inner .col-md-4.order-now.text-left {
+    margin-left: 0;
+    padding-left: 25px;}
+    
+    .fpdesign_inner h2 {
+    font-size: 30px;
+    width: 100%;}
+    
+    .fpdesign_inner ul.first li a {
+    font-size: 15px;}
+    
+    .fpdesign_inner p a.order {
+    font-size: 19px;
+     margin-left: 8px;}
+    
+    .cards .visa img {
+    width: 48px;}
+    
+    
+    .fpdesign_inner p.price,
+    .fpdesign_inner p.white {
+    font-size: 27px;}
+    
+    .fpdesign_inner ul.first {
+    margin-top: 45px;}
+    
+     /* GET STARTED */
+    div#getstarted p {
+    font-size: 13px;
+    padding: 0 40px;}
+    
+    div#getstarted h2 {
+    font-size: 25px;}
+    
+    div#getstarted h3 {
+    font-size: 15px;
+    padding: 0 40px;}
+    
+    /* SUPPORT YOU NEED */ 
+    .support-cont {
+    width: 73%;}
+
+    .support_inner p.subhd {
+    font-size: 13px;
+    width: 100%;}
+  /* DOWNLOAD RISK */
+   div#download-risk h3 {
+    font-size: 18px;
+    margin-bottom: 37px;}
+    
+    div#download-risk .download_inner .three_Step {
+    min-height: 111px;}
+    
+    div#download-risk {
+    min-height: 390px;}
+    
+    
+    div#support-need h3 {
+    font-size: 27px;}
+    
+    div#support-need h3 {
+    margin-bottom: 12px;}
+   
+   .support-one {
+    margin-bottom: 78px;}
+    
+      /* TRADING PROFIT   */ 
+   #trading-profit h3 {
+    padding: 0px;
+    font-size: 27px;} 
+    
+    #trading-profit .title_info h2 {
+    font-size: 30px;}
+    
+    
+     /*****PROTECT ACCOUNT*/
+    #protect-account .title_info span {
+    font-size: 50px;}
+    
+    #protect-account .title_info h2 {
+    margin: -68px 0 0 0;
+    Font-size: 31px;}
+    
+    
+      /* TRADING TOOL   */
+   #trading-tool .title_info h2 {
+    font-size: 30px;
+    margin: -52px 0 0 0;}
+    
+    #trading-tool h3 {
+    font-size: 27px;}
+    
+    .title_info span {
+    font-size: 40px!important;}
+    
+     
+   
+}
+
+@media screen and (max-width: 320px) {
+    
+    /* FOOTER */
+     .footer_inner p {
+   font-size: 14px;}
+   /* FOREX PROJECT DESIGN */
+    
+   .fpdesign_inner ul.first li a {
+    font-size: 14px;}
+    
+    
+      /*****PROTECT ACCOUNT*/  
+    #protect-account .title_info h2 {
+    margin: -60px 0 0 0;
+    Font-size: 26px;}
+    
+}
+

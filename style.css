@@ -1,0 +1,4555 @@
+/***************
+STYLE SHEET
+**************/
+/*   MY BLOCK    */
+
+
+
+.wbckg{
+		color: #337ab7;
+		background: transparent;
+		border: 0px solid transparent;
+		outline: none;
+	    font-family: 'Raleway', sans-serif;
+	    font-size: 21px;
+	    font-weight: 700;
+	    text-decoration: underline;
+	    cursor: pointer;
+	}	
+	.wbckg:hover{
+		text-decoration: none;
+	}
+	.wbckg_a{
+		color: #fff;
+	    text-decoration: none;
+	    width: 100%;
+	    max-width: 323px;
+	    background: #6d007f;
+	    text-transform: capitalize;
+	    font-size: 32px;
+	    padding: 20px 30px;
+	    border-radius: 5px;
+	    margin: 0 5px;
+	    display: inline-block;
+	    font-weight: 600;
+	    text-align: center;
+	    line-height: 20px;
+	    margin-top: 25px;
+	    margin-left: 12px;
+	    cursor: pointer;
+	    border: 0px solid transparent;
+		outline: none;
+	    font-family: 'Raleway', sans-serif;
+	}
+	.wbckg_a:hover{
+		color: #fff;
+	    transition: all .5s ease-in;
+	    box-shadow: inset 0 67px 0px #d49600;
+	}
+	
+	.verysmalllink
+	{
+		
+		font-size: 17px;
+		margin-top:0;
+		padding-top:0;
+		
+	}
+	
+		.formtopminus10
+	{
+		margin-top:-10px;
+		width:100%;
+		text-align:center;
+	}
+
+
+
+
+.mycontainer{
+	width:487px;
+	float:left;
+	
+	}
+.mycenter{
+	margin-left:200px;
+	width:240px;
+	margin-top:-10px;
+}
+.mycontainertext{
+	width:683px;
+	float:left;
+}
+.mytext1 h3{
+	/* text-align:center;
+	margin-left:-236px; */
+	font-size:22px;
+	color:#fff;
+}
+
+.mytext1{
+	margin-top:-34px;
+	margin-bottom:40px;
+}
+.mytext2{
+	font-size: 19px;
+	color:#fff;
+	margin-bottom:20px;
+	padding-left:72px;
+}
+.mytext3{
+	font-size: 19px;
+	color:#fff;
+	margin-top:64px;
+	
+}
+
+#step{
+	margin-left:-73px;
+	color:#fee701;
+	font-size:20px;
+	
+	
+}
+#stepT{
+	margin-left:7px;
+}
+ #video{
+		margin-top:-470px;
+	}
+/**  ------------------------------------------------ */
+h1, h2, h3, h4, h5, h6 {
+font-family: 'Raleway', sans-serif;
+
+}
+p{
+    font-family: 'Raleway', sans-serif;
+}
+a{
+    font-family: 'Raleway', sans-serif;
+}
+
+/*Final Chance!
+Only 3 Copies Left!*/  
+strong font{
+ display:none;
+}
+
+
+#footer p{
+  margin-right:15px;
+  margin-top:10px;
+ }
+
+#back-top {
+	position: fixed;
+	bottom: 30px;
+    right: 21px;
+    z-index: 999;
+}
+
+#back-top a {
+	width: 50px;
+	display: block;
+	text-align: center;
+	font: 0px/100% Arial, Helvetica, sans-serif;
+	text-transform: uppercase;
+	text-decoration: none;
+	color: #bbb;
+
+	/* transition */
+	-webkit-transition: 1s;
+	-moz-transition: 1s;
+	transition: 1s;
+}
+#back-top a:hover {
+ color: #000;
+}
+/* arrow icon (span tag) */
+#back-top span {
+ width: 50px;
+ height: 55px;
+ display: block;
+ margin-bottom: 7px;
+  background: #51005e;
+ background: url(../images/back-top.png) no-repeat center center;
+
+ /* rounded corners */
+ -webkit-border-radius: 8px;
+ -moz-border-radius: 8px;
+ border-radius: 8px;
+
+ /* transition */
+ -webkit-transition: 1s;
+ -moz-transition: 1s;
+ transition: 1s;
+ margin-left: 15px;
+ color: #fff;
+
+}
+
+#back-top span i.fa.fa-chevron-up {
+    font-size: 28px;
+    margin-top: 6px;
+}
+/*
+#back-top a:hover span {
+ background-color: #141414;
+ color: #fff;
+}
+*/
+.anchor_arrow {
+    clear: both;
+}
+
+.anchor_info {
+    width: 73px;
+    height: 75px;
+    padding: 0;
+    margin: 0 0 0 -36px;
+    display: block;
+    clear: both;
+    position: relative;
+    z-index: 77;
+    position: absolute;
+    left: 50%;
+   bottom: -45px;
+}
+/** Home Banner Css **/
+
+#faq {
+    position: relative;
+    padding-top: 40px;
+    padding-bottom: 40px;
+	
+}
+
+ #faq h7{
+     font-size: 25px;
+    color:#ff0000;
+    font-weight: 800;
+    margin: 0;
+	font-family: 'Raleway', sans-serif;
+	
+  }
+
+.faq-image-answer{
+    float: left;
+    margin-right: 20px;
+    margin-left: 40px;
+}
+
+.faq-image-question{
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 0px;
+}
+
+.faq-question{
+    padding-top: 20px;
+    padding-bottom: 5px;
+}
+
+.faq-answer{
+
+}
+.faq-container{
+    width: 90%;
+    padding: 40px;
+    border: 4px solid #51005e;
+    background: #f1f2f2;
+}
+#faq .faq-separator{
+    margin-top: 20px;
+    margin-bottom: 20px;
+	 
+}
+#faq p{
+    font-size: 20px;
+    color: #141414;
+    /*font-weight: 600;*/
+    text-align: left;
+}
+#faq img{
+}
+
+#header .home-banner{
+    background: url(../images/header_footer.jpg)no-repeat top center;
+    background-size: cover;
+    text-align: CENTER;
+    padding-top: 30px;
+    /*padding-bottom:458px;*/
+    /*margin-bottom: -158px;*/
+}
+#header .home-banner .excerpt{
+    padding-bottom:0px;
+}
+#header #headvideo{
+    padding-bottom:366px;
+}
+#header .home-banner .excerpt h1{
+    font-size: 63px;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 800;
+}
+#header .home-banner .excerpt h1 span.yellow{
+    color: #ffce39;
+}
+#header .home-banner .excerpt h1 span.red{
+    color: #b95130;
+}
+#header .home-banner .excerpt p{
+    color: #fff;
+    font-size: 18px;
+    width: 62%;
+    margin: 0 auto;
+}
+#header .home-banner .cd-pic{
+    width: 100%;
+    float: left;
+    padding: 0;
+    margin: 0 0 -190px 0;
+    text-align: center;
+}
+
+.home-video{
+    position: absolute;
+    /*margin-bottom: -158px;*/
+    /*width: 100%;*/
+    /*margin: 0 0 -100px 0;*/
+    /*padding-bottom: 100px;*/
+}
+
+
+/** Slider Bottom Section Css **/ 
+
+#slider-bottom{
+      background: url(../images/ForexProIndicator-bg2.jpg)no-repeat top center;
+    background-size: cover;
+    text-align: CENTER;
+    padding-top:70px;
+    padding-bottom: 40px;
+    position: relative;
+}
+#slider-bottom h2{
+    font-size: 50px;
+    color:#51005e;
+    font-weight: 800;
+    margin: 0;
+}
+  #slider-bottom h3{
+    font-size: 40px;
+    color:#141414;
+    margin: 0;
+}  
+  #slider-bottom h4{
+     font-size: 58px;
+    color:#51005e;
+    text-transform: uppercase;
+    font-weight: 800;
+    margin: 0;
+  }
+    #slider-bottom h5{
+     font-size: 70px;
+    color:#141414;
+    text-transform: uppercase;
+    font-weight: 800;
+    margin: 0;
+  }
+    #slider-bottom h6{
+     font-size: 70px;
+    color:#eece2f;
+    text-transform: uppercase;
+    font-weight: 800;
+    margin: 0;
+  }
+  
+   #slider-bottom h7{
+     font-size: 25px;
+    color:#ff0000;
+    font-weight: 800;
+    margin: 0;
+	font-family: 'Raleway', sans-serif;
+	
+  }
+  
+/** What's New Section Css **/ 
+
+#whats-new {
+    padding-top:40px;
+    padding-bottom:40px;
+    background: #eceded;
+    position: relative;
+}
+
+ #whats-new h7{
+     font-size: 25px;
+    color:#ff0000;
+    font-weight: 800;
+    margin: 0;
+	font-family: 'Raleway', sans-serif;
+	
+  }
+
+#whats-new h2{
+    font-size:40px;
+    font-weight:800;
+    color:#51005e;
+    text-align: center;
+}
+#whats-new h2 span{
+     color:#141414;
+}
+#whats-new .diamonds-con{
+    padding: 50px 0 50px 0;
+    width: 100%;
+    margin: 0;
+    text-align: center;
+}
+
+#whats-new ul {
+    width: 100%;
+    float: left;
+    padding: 0;
+    margin: 0;
+}
+
+#whats-new ul li {
+    padding: 0;
+    margin: 0 36px -40px 36px;
+    display: inline-block;
+}
+
+#whats-new .block {
+    width: 170px;
+    height: 170px;
+    float: none;
+    padding: 0;
+    margin: 0 auto;
+    display: block;
+    background: #51005e;
+    border-radius: 10px;
+    transform: rotate(45deg);
+}
+#whats-new  .block .inner{ 
+    width: 100%;
+    float: left;
+    padding: 0 10px;
+    margin: 0;
+    text-align: center;
+    transform: rotate(-45deg);
+    position: relative;
+    left: -20px !important;
+    bottom: 5px;
+    
+    }
+#whats-new .block .position1 {
+    left: -26px !important;
+}
+
+#whats-new .block .position2 {
+    left: -14px;
+}
+
+#whats-new .block .position3 {
+    left: -26px !important;
+}
+
+#whats-new .block .position4 {
+    left: -18px;
+}
+
+#whats-new .block .position5 {
+    left: -30px !important;
+}
+
+#whats-new .block .position6 {
+    left: -26px !important;
+}
+
+#whats-new .block .position7 {
+    left: -18px !important;
+}
+
+#whats-new .block .position8 {
+    left: -26px !important;
+}
+
+#whats-new .block .position9 {
+    left: -20px;
+}
+
+#whats-new .block .count {
+    padding: 0;
+    margin: 0;
+    font-size: 108px;
+    color: #ffffff;
+    font-weight: 700;
+    font-family: 'Roboto Condensed', sans-serif;
+    opacity: 0.2;
+    position: absolute;
+    left: 0;
+    top: 20px;
+    right: 0;
+}
+
+#whats-new .block i {
+    padding: 0;
+    margin: 12px 0 10px 0;
+    display: block;
+}
+#whats-new  .block h3{ 
+       padding: 0;
+    margin: 0;
+    font-size: 16px;
+    color: #ffffff;
+    line-height: 19px;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: 600;
+    
+    }  
+    
+    
+.whats-new_desc {
+    width: 100%;
+    padding: 0;
+    margin: 0 0 50px 0;
+}
+
+a u b{
+	font-size:21px;
+}
+
+/** 1777775 **/
+.whats-new_desc .inner {
+    width: 100%;
+    padding: 0;
+    margin: -30px 0 0 0;
+}
+
+.whats-new_desc .inner p {
+    padding: 0;
+    margin: 0 0 30px 0;
+    font-size: 15px;
+    color: #5e5e5e;
+    line-height: 22px;
+    font-weight: 400;
+}
+
+.whats-new_desc .inner p b {
+    font-size: 36px;
+    color: #51005e;
+    font-weight: 700;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.whats-new_desc .inner p strong {
+    color: #51005e;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.whats-new_desc figure{ 
+    
+        width: 100%;
+    padding: 0;
+    margin: 115px 0px 0px 50px;
+    text-align: center;
+}
+
+ul.trade_list{ width:100%;  padding:0; margin:0 0 45px 0; text-align:center;}
+ul.trade_list li{ min-height:65px; padding:0 0 0 95px; margin:0 20px; text-align:left; display:inline-flex; font-size:22px; color:#5e5e5e; font-family: 'Roboto Condensed', sans-serif; background:url(../images/trade_list_arrow.png) no-repeat left top;}
+    
+
+/** Live Chart Section Css **/ 
+
+#live-chart {
+    text-align: center;
+    padding-top: 80px;
+    padding-bottom: 60px;
+    background: url(../images/live-chart-bg.png)no-repeat top center;
+    background-size: cover;
+    position: relative;
+}
+
+#live-chart .title_info{ padding:0; margin:0 0 20px 0; clear:both; text-align:center;}
+#live-chart .title_info span{
+        padding: 0;
+    margin: 0;
+    font-size: 100px;
+    color: rgba(220, 221, 222, 0.6);
+    text-transform: uppercase;
+    font-weight: 800;
+    
+}
+#live-chart .title_info h2{
+    
+        padding: 0;
+    margin: -87px 0 0 0;
+    font-size: 48px;
+    color: #51005e;
+    font-weight: 800;
+    text-transform: uppercase;
+}
+
+ #live-chart h7{
+     font-size: 25px;
+    color:#ff0000;
+    font-weight: 800;
+    margin: 0;
+	text-transform: none;
+	font-family: 'Raleway', sans-serif;
+	
+  }
+
+
+#live-chart .title_info h2 strong{ color:#51005e;font-weight: 800;}
+    
+ #live-chart h3{
+    color: #141414;
+    font-size: 24px;
+    font-weight: 900;
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 50px;
+
+ } 
+ /*
+#live-chart .click {
+    width: 100%;
+    float: left;
+    padding: 0;
+    margin-top: 60px;
+    font-size: 22px;
+    color: #628f8f;
+    text-transform: uppercase;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: 600;
+}
+
+#live-chart .click a {
+    color: #023bcb;
+    text-decoration: underline;
+    letter-spacing: 1px;
+}
+
+#live-chart .click a:hover {
+    color: #eec228;
+}
+   
+  
+ /*********** Advantages of Forex Section css **********/
+
+#advantages-of-forex{
+    background: url(../images/advantage_bg.png)no-repeat top center;
+    min-height:948px;
+    padding-top: 50px;
+    background-size: cover;
+    padding-bottom: 200px;
+    position: relative;
+}
+
+#advantages-of-forex .title_info h2{
+    color:#141414;
+    font-size: 30px;
+    font-weight: 900;
+}
+#advantages-of-forex .title_info {
+    padding: 0;
+    margin: 0;
+    font-size: 80px;
+    text-transform: uppercase;
+    font-weight: 900;
+    color:#0362bb;
+}
+
+#advantages-of-forex .title_info h2 strong {
+    color: #fff;
+    font-weight: 900;
+}
+
+
+#advantages-of-forex .detials{
+    background: url(../images/circle-bg.png)no-repeat top center;
+    min-height: 450px;
+    position: relative;
+    width: 100%;
+    max-width: 740px;
+    margin: 0 auto;
+    margin: 250px auto 70px auto;
+}
+
+#advantages-of-forex .detials .block p {
+     padding: 13px;
+    margin: 0;
+    font-size: 15px;
+    letter-spacing: 0.01em;
+    line-height: 18px;
+    color: #000;
+    font-family: 'Roboto Condensed', sans-serif;
+       font-weight: 600;
+    text-align: center;
+    margin: 15px;
+}
+#advantages-of-forex .detials .main-info{
+        position: absolute;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    text-align: CENTER;
+    width: 100%;
+    top: 172px;
+    color: #fff;
+    font-weight: 600;
+}
+
+#advantages-of-forex .detials .block_1 {
+       width: 146px;
+    height: 190px;
+    margin: 0;
+    position: absolute;
+    background: url(../images/block-1.png) no-repeat top center;
+    left: 297px;
+    top: -175px;
+    text-align: CENTER;
+    padding: 50px 0px 0px 0px;
+
+}
+
+
+#advantages-of-forex .detials .block_1 i.icon{
+    position: absolute;
+    right: 58px;
+    top: 20px;
+}
+
+#advantages-of-forex .detials .block_2 i.icon{
+    position: absolute;
+    right: 19px;
+    top: 56px;
+}
+
+
+#advantages-of-forex .detials .block_3 i.icon{
+    position: absolute;
+    right: 21px;
+    top: 49px;
+}
+
+
+#advantages-of-forex .detials .block_4 i.icon{
+    position: absolute;
+    right: 26px;
+    bottom: 51px;
+}
+
+
+#advantages-of-forex .detials .block_5 i.icon{
+    position: absolute;
+    right: 77px;
+    bottom: 24px;
+}
+
+
+#advantages-of-forex .detials .block_6 i.icon{
+    position: absolute;
+    left: 28px;
+    bottom: 50px;
+}
+
+
+#advantages-of-forex .detials .block_7 i.icon{
+    position: absolute;
+    left: 28px;
+    top: 51px;
+}
+
+
+#advantages-of-forex .detials .block_8 i.icon{
+    position: absolute;
+    left: 29px;
+    top: 56px;
+}
+
+
+#advantages-of-forex .detials .block_2 {
+width: 190px;
+    height: 190px;
+    margin: 0;
+    position: absolute;
+    background: url(../images/block-2.png) no-repeat top center;
+    right: 54px;
+    top: -77px;
+      padding: 60px 25px 0px 0px;
+}
+
+#advantages-of-forex .detials .block_3 {
+    width: 190px;
+    height: 190px;
+    margin: 0;
+    position: absolute;
+    background: url(../images/block-3.png) no-repeat top center;
+    right: -24px;
+    top: 112px;
+    padding: 50px 30px 0px 0px;
+}
+
+#advantages-of-forex .detials .block_4 {
+    width: 190px;
+    height: 190px;
+    margin: 0;
+    position: absolute;
+    background: url(../images/block-4.png) no-repeat top center;
+    right: 55px;
+    bottom: -80px;
+    padding: 36px 34px 0px 0px;
+}
+
+#advantages-of-forex .detials .block_5 {
+   width: 190px;
+    height: 190px;
+    margin: 0;
+    position: absolute;
+    background: url(../images/block-5.png) no-repeat top center;
+    left: 275px;
+    bottom: -150px;
+    padding: 33px 0px 0px 0px
+}
+
+#advantages-of-forex .detials .block_6 {
+  width: 190px;
+    height: 190px;
+    margin: 0;
+    position: absolute;
+    background: url(../images/block-6.png) no-repeat top center;
+    left: 51px;
+    padding: 39px 0px 0px 34px;
+    bottom: -74px;
+}
+#advantages-of-forex .detials .block_7 {
+       width: 190px;
+    height: 190px;
+    margin: 0;
+    position: absolute;
+    background: url(../images/block-7.png) no-repeat top center;
+    left: -28px;
+    padding: 47px 0px 0px 35px;
+    top: 110px;
+}
+#advantages-of-forex .detials .block_8 {
+          width: 190px;
+    height: 190px;
+    margin: 0;
+    position: absolute;
+    background: url(../images/block-8.png) no-repeat top center;
+    left: 45px;
+    padding: 48px 0px 0px 39px;
+    top: -75px;
+}
+
+
+/*********** Broker Section css **********/
+
+.developed_sec .info {
+    width: 100%;
+    float: left;
+    padding: 0;
+    margin: 10px 0 65px 0;
+    font-size: 18px;
+    color: #5e5e5e;
+    letter-spacing: 0.3px;
+    text-align: center;
+}
+
+.developed_sec .details {
+    width: 100%;
+    float: left;
+    padding: 0;
+    margin: 0 0 65px 0;
+}
+
+.developed_sec .block {
+    width: 100%;
+    float: left;
+    padding: 0;
+    margin: 35px 0 0 0;
+    text-align: center;
+    background: #51005e;
+    border-radius: 3px;
+    position: relative;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.3);
+}
+
+.developed_sec .block h3 {
+    width: 100%;
+    float: left;
+    padding: 10px;
+    margin: 0;
+    font-size: 26px;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 700;
+    background: #35003e;
+    border-radius: 3px 3px 0 0;
+}
+
+.developed_sec .block .details {
+    width: 100%;
+    float: left;
+    padding: 30px 20px 54px 20px;
+    margin: 0;
+}
+
+.developed_sec .block p {
+    padding: 0;
+    margin: 0 0 8px 0;
+    font-size: 15px;
+    color: #ffffff;
+}
+
+.developed_sec .block p strong {
+    color: #fff;
+    font-weight: 900;
+}
+
+.developed_sec .block figure {
+    width: 100%;
+    float: left;
+    padding: 0;
+    margin: 33px 0 0 0;
+}
+
+.developed_sec .block .curve {
+    float: right;
+    padding: 0;
+    margin: 0;
+    position: absolute;
+    right: 0;
+    margin-right: -15px;
+    margin-bottom: -35px;
+    bottom: 0;
+}
+
+ .developed h7{
+     font-size: 25px;
+    color:#ff0000;
+    font-weight: 800;
+    margin: 0;
+	font-family: 'Raleway', sans-serif;
+	
+  }
+
+
+
+.developed{ 
+    width:100%; 
+     padding:50px 0 0 0;
+      margin:0; border-bottom:1px solid #d6d6d6;
+       background:url(../images/broker-bg.jpg) no-repeat center top;
+       position: relative;
+       padding-top: 80px;
+    padding-bottom: 80px;
+    background-size: cover;
+       }
+
+
+.developed_sec .title_info span{
+    font-size:65px;
+    color:#e6e7e8;
+}
+.developed_sec .title_info {
+    padding: 0;
+    margin: 0;
+    font-size: 80px;
+    text-transform: uppercase;
+    font-weight: 900;
+    color:#0362bb;
+       
+}
+.developed_sec .title_info h2{
+    color:#000000;
+    font-size: 38px;
+    font-weight: 900;
+     margin: -70px 0 0 0;
+}
+.developed_sec .title_info h2 strong {
+    color: #51005e;
+    font-weight: 900;
+}
+.developed img.lcd-pic{
+    width:100%;
+    margin:0 auto;
+    margin-top: 25px;
+    margin-bottom: 25px;
+	
+    
+}
+
+
+.title_info span {
+    padding: 0;
+    margin: 0;
+    font-size: 80px;
+    text-transform: uppercase;
+    font-weight: 900;
+}
+.title_info {
+    padding: 0;
+    margin: 0 0 20px 0;
+    clear: both;
+    text-align: center;
+}
+.title_info h2 strong {
+   
+}
+.title_info h2 {
+    padding: 0;
+    margin: -75px 0 0 0;
+    font-size: 48px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+
+/*********** Strategy Section css **********/
+
+.strategy{
+    background: url(../images/intro_bg.jpg)no-repeat top center;
+    background-size: cover;
+    text-align: center;
+    padding-top: 80px;
+    padding-bottom: 90px;
+    background-size: cover;
+    position: relative;
+}
+
+.strategy .title_info span{
+      font-size: 90px;
+    color:#ebebeb;
+}
+.strategy .title_info {
+    padding: 0;
+    margin: 0;
+    font-size: 80px;
+    text-transform: uppercase;
+    font-weight: 900;
+    color:#0362bb;
+       
+}
+.strategy .title_info h2{
+      color: #000000;
+    font-size: 34px;
+    font-weight: 900;
+    margin: -80px 0 0 0;
+}
+.strategy .title_info h2 strong {
+    color: #51005e;
+    font-weight: 900;
+}
+.strategy h3 {
+       font-weight: 900;
+    font-size: 28px;
+    margin-top: 50px;
+    margin-bottom: 40px;
+}
+.strategy h3 strong{
+ 
+    color:#51005e;
+    font-weight: 900;
+}
+.strategy p{
+    width: 100%;
+    text-align: left;
+    font-size:16px;
+    color:#141414;
+    font-weight:600;
+}
+
+
+
+
+.strategy2{
+    background: url(../images/account_bg.png)no-repeat top left !important;
+    background-size: cover;
+    text-align: center;
+    padding-top: 80px;
+    padding-bottom: 90px;
+    background-size: cover;
+    position: relative;
+}
+
+/*********** Rich Forex Section css **********/
+
+
+.rich-forex{
+    background: url(../images/bg07.jpg)no-repeat top center;
+    background-size: cover;
+    text-align: center;
+    padding-top:80px;
+    padding-bottom:80px;
+        background-attachment: fixed;
+        position: relative;
+}
+
+.rich-forex .title_info span{
+      font-size: 100px;
+    color: #7c0190;
+}
+.rich-forex .title_info {
+    padding: 0;
+    margin: 0;
+    font-size: 80px;
+    text-transform: uppercase;
+    font-weight: 900;
+    color:#0362bb;
+       
+}
+.rich-forex .title_info h2{
+      color: #fff;
+    font-size: 30px;
+    font-weight: 900;
+    margin: -83px 0 0 0;
+    padding-bottom:50px;
+}
+
+.rich-forex .title_info h1{
+      color: #fff;
+    font-size: 70px;
+    font-weight: 900;
+    margin: -105px 0 0 0;
+    padding-bottom:20px;
+}
+
+.rich-forex .title_info h2 strong {
+    color: #141414;
+    font-weight: 900;
+}
+  .rich-forex p{
+     font-size: 16px;
+    color: #fff;
+    font-weight: 600;
+    width: 75%;
+      text-align: center;
+    margin: 0 auto;
+    margin-bottom: 28px;
+  }
+  
+/*********** Losing Mistake Section css **********/  
+ 
+  .losing-mistake{
+    text-align: center;
+    padding-top:80px;
+    padding-bottom:80px;
+    position: relative;
+	background-color:#fff;
+	 /* background: url(../images/profitable-bg2.png)no-repeat  center top; */
+	 position:relative;
+	 background-size:cover;
+  }
+  #trading-tool-8 .title_info h3{
+	  margin-top:-92px;
+  }
+  
+  .losing-mistake .title_info span{
+    padding: 0;
+    margin: 0;
+    font-size: 80px;
+    text-transform: uppercase;
+    font-weight: 900;
+    color:#f0f1f1;
+       
+}
+.losing-mistake .title_info h2{
+      color: #141414;
+    font-size: 30px;
+    font-weight: 900;
+    margin: -70px 0 0 0;
+    padding-bottom:50px;
+}
+.losing-mistake .title_info h2 strong {
+    color: #51005e;
+    font-weight: 900;
+}
+    .losing-mistake p{
+     font-size: 16px;
+    color: #141414;
+    font-weight: 600;
+    width: 75%;
+        text-align: left;
+    margin: 0 auto;
+    margin-bottom: 28px;
+  }
+  
+  
+  #trading-tool-2 h7{
+     font-size: 25px;
+    color:#ff0000;
+    font-weight: 800;
+    margin: 0;
+	font-family: 'Raleway', sans-serif;
+	
+  }
+  
+/*********** Quick Introduction Section css **********/  
+
+  
+.quick-introduction  {
+	    background: url(../images/ForexProIndicator-bg9.jpg)no-repeat top center;
+		background-size: cover;
+        text-align: center;
+    padding-top:80px;
+    padding-bottom:80px;
+ 
+    position: relative;
+}
+    
+  .quick-introduction  .title_info span{
+    padding: 0;
+    margin: 0;
+    font-size: 80px;
+    text-transform: uppercase;
+    font-weight: 900;
+    color:#fff;
+       
+}
+.quick-introduction  .title_info h2{
+     color: #51005e;
+    font-size: 45px;
+    font-weight: 900;
+    margin: -73px 0 0 0;
+    padding-bottom: 40px;
+    
+}
+.quick-introduction  .title_info h2 strong {
+    color: #51005e;
+    font-weight: 900;
+}
+.quick-introduction h3{
+    font-size:28px;
+    color:#141414;
+    font-weight:900;
+    padding-bottom:28px;
+}
+.quick-introduction h3 strong{
+    color:#51005e;
+    font-weight:900;
+}
+
+   .quick-introduction p{
+       text-align: left;
+     font-size: 16px;
+    color: #141414;
+    font-weight: 600;
+    width: 75%;
+    margin: 0 auto;
+    margin-bottom: 28px;
+  }
+
+
+#quick-introduction-228{
+			background: url(../images/intro_bg2.jpg)no-repeat top center;
+			position:relative;
+			background-size:cover;
+		}
+
+
+
+
+#member-a   {
+    text-align: center;
+    padding-top:80px;
+    padding-bottom:80px;
+    background: #f1f2f2;
+    position: relative;
+}
+#member-a center span b{
+		font-size:1.5em;;
+	}
+#member-a   .title_info span{
+    padding: 0;
+    margin: 0;
+    font-size: 80px;
+    text-transform: uppercase;
+    font-weight: 900;
+    color:#fff;
+
+}
+#member-a   .title_info h2{
+    color: #51005e;
+    font-size: 45px;
+    font-weight: 900;
+    margin: -80px 0 0 0;
+    padding-bottom: 40px;
+
+}
+#member-a  .title_info h2 strong {
+    color: #51005e;
+    font-weight: 900;
+}
+#member-a h3{
+    font-size:28px;
+    color:#141414;
+    font-weight:900;
+    padding-bottom:0px;
+}
+#member-a h3 strong{
+    color:#51005e;
+    font-weight:900;
+}
+
+#member-a p{
+    color: #141414;
+    font-weight: 600;
+}
+
+  
+/*********** profitable strategy Section css **********/  
+
+  .profitable-strategy{
+        background: url(../images/ForexProIndicator-bg6.jpg)no-repeat top center;
+    background-size: cover;
+    padding-top:80px;
+    padding-bottom:80px;
+    position: relative;
+    
+  }
+  .profitable-strategy  .title_info{
+    text-align: left;
+  }
+  
+    .profitable-strategy  .title_info span{
+    padding: 0;
+    margin: 0;
+    font-size: 80px;
+    text-transform: uppercase;
+    font-weight: 900;
+    color:#f1f2f2;
+    
+       
+}
+.profitable-strategy  .title_info h2{
+     color: #51005e;
+    font-size: 45px;
+    font-weight: 900;
+    margin: -92px 0 0 0;
+    padding-bottom: 40px;
+    
+}
+.profitable-strategy  .title_info h2 strong {
+    color: #51005e;
+    font-weight: 900;
+}
+  .profitable-strategy h3{
+    font-size:28px;
+    color:#141414;
+    font-weight:900;
+    padding-bottom:28px;
+}
+.profitable-strategy h3 strong{
+    color:#51005e;
+    font-weight:900;
+}
+
+.profitable-strategy h7{
+     font-size: 25px;
+    color:#ff0000;
+    font-weight: 800;
+    margin: 0;
+	font-family: 'Raleway', sans-serif;
+	
+  }
+
+
+    .profitable-strategy p{
+     font-size: 16px;
+    color: #141414;
+    font-weight: 600;
+    width: 70%;
+    margin-bottom: 28px;
+  }
+  
+  /*********** Secret Sauce Section css **********/ 
+  
+  
+  
+    .secret-sauce{
+    background: url(../images/ForexProIndicator-bg11-edit.jpg)no-repeat top center;
+    background-size: cover;
+    padding-top:80px;
+    padding-bottom:120px;
+    text-align: center;
+    position: relative;
+    
+  }
+  .secret-sauce  .title_info{
+
+  }
+  
+   .secret-sauce  .title_info span{
+    padding: 0;
+    margin: 0;
+    font-size: 80px;
+    text-transform: uppercase;
+    font-weight: 900;
+    color: #7c0190;
+    
+       
+}
+
+#testing-years-1 .title_info h3{
+	margin-top:-71px;
+}
+#trading-tool-1 .title_info h3{
+	margin-top:-71px;
+}
+
+.secret-sauce  .title_info h2{
+     color: #fff;
+    font-size: 45px;
+    font-weight: 900;
+    margin: -75px 0 0 0;
+    padding-bottom: 40px;
+    
+}
+.secret-sauce  .title_info h2 strong {
+    color: #51005e;
+    font-weight: 900;
+}
+  .secret-sauce h3{
+    font-size:30px;
+    color:#fff;
+    font-weight:900;
+    padding-bottom:28px;
+}
+
+.secret-sauce .title_info h1{
+      color: #fff;
+    font-size: 70px;
+    font-weight: 900;
+    margin: -93px 0 0 0;
+    
+}
+
+.secret-sauce h3 strong{
+    color:#51005e;
+    font-weight:900;
+}
+   .secret-sauce p{
+     font-size: 16px;
+    color: #fff;
+    font-weight: 600;
+    width: 75%;
+    /*margin-bottom: 28px;*/
+    /*margin: 0 auto;*/
+  }
+    .secret-sauce h4{
+    font-size:24px;
+    color:#fff;
+    font-weight:900;
+    padding-bottom:10px;
+    padding-top: 20px;
+}
+.secret-sauce .boxes .details{
+    height: 222px;
+    display: table;
+    background: #fff;
+    border-radius: 6px;
+    margin-bottom: 40px;
+}
+
+
+.table-item {
+    display: table-cell;
+    padding: 15px;
+    vertical-align: middle;
+    width: 40%;
+}
+
+  .secret-sauce .boxes .details p{
+    width: 100%;
+    color: #6d6e71;
+    text-align: center;
+    font-weight: 400;
+    font-size: 15px;
+    /*margin-bottom: 10px;*/
+  }
+
+.secret-sauce .boxes .details p:last-child{
+    margin-bottom: -6px;
+}
+
+
+
+  /*********** testing years Section css **********/ 
+  
+  
+  
+.testing-years{
+    background: url(../images/ForexProIndicator-bg3.jpg)no-repeat top center;
+    background-size: cover;
+    padding-top:80px;
+    padding-bottom:80px;
+    text-align: center;
+    position: relative;
+  }
+  .testing-years  .title_info{
+
+  }
+  
+   .testing-years  .title_info span{
+    padding: 0;
+    margin: 0;
+    font-size: 80px;
+    text-transform: uppercase;
+    font-weight: 900;
+    color:#fff;
+    
+       
+}
+.testing-years  .title_info h2{
+     color: #51005e;
+    font-size: 45px;
+    font-weight: 900;
+    margin: -80px 0 0 0;
+    padding-bottom: 40px;
+    
+}
+.testing-years .title_info h2 strong {
+    color: #51005e;
+    font-weight: 900;
+}
+  .testing-years h3{
+    font-size:30px;
+    color:#141414;
+    font-weight:900;
+    padding-bottom:28px;
+}
+.testing-years h3 strong{
+    color:#51005e;
+    font-weight:900;
+}   
+    .testing-years p{
+     font-size: 16px;
+    color: #141414;
+    font-weight: 600;
+    width: 75%;
+    margin-bottom: 28px;
+    margin: 0 auto;
+  }
+  
+  
+.tab_info {
+    width: 100%;
+    float: left;
+    padding: 0;
+    margin: 50px 0 85px 0;
+}
+
+.tab_info .nav-tabs {
+    border-bottom: none;
+    border-top: 7px solid #51005e;
+    background: #f5f5f5;
+}
+
+.tab_info .nav-tabs.nav-justified > li {
+    border-bottom: 2px solid #fff;
+}
+
+.tab_info .nav-tabs.nav-justified > li > a {
+    border: none;
+    padding: 17px 10px;
+    font-size: 24px;
+    color: #51005e;
+    font-weight: 700;
+    font-family: 'Roboto Condensed', sans-serif;
+    border-radius: 0;
+    margin: 0;
+    position: relative;
+}
+
+.tab_info .nav-tabs.nav-justified > li > a:after {
+    top: 100%;
+    left: 50%;
+    border: solid transparent;
+    content: " ";
+    height: 0;
+    width: 0;
+    position: absolute;
+    pointer-events: none;
+    border-color: rgba(238, 194, 40, 0);
+    border-top-color: #fff;
+    border-width: 9px;
+    margin-left: -9px;
+    margin-top: 2px;
+    display: none;
+}
+
+.tab_info .nav-tabs.nav-justified > li > a small {
+    display: block;
+    margin-top: 3px;
+    font-size: 13px;
+    color: #5e5e5e;
+    font-weight: 600;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.tab_info .nav-tabs.nav-justified > .active > a,
+.tab_info .nav-tabs.nav-justified > .active > a:hover,
+.tab_info .nav-tabs.nav-justified > .active > a:focus {
+    color: #fff;
+    background: #51005e;
+    border: none;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-radius: 0;
+    margin: 0;
+}
+
+.tab_info .nav-tabs.nav-justified > .active > a small,
+.tab_info .nav-tabs.nav-justified > .active > a:hover small,
+.tab_info .nav-tabs.nav-justified > .active > a:focus small {
+    color: #fff;
+}
+
+.tab_info .nav-tabs.nav-justified > .active > a:after,
+.tab_info .nav-tabs.nav-justified > .active > a:hover:after,
+.tab_info .nav-tabs.nav-justified > .active > a:focus:after {
+    display: block;
+}
+
+.tab_info .tab-content {
+    width: 100%;
+    float: left;
+    padding: 15px;
+    margin: 0;
+    background: url(../images/tab_bg.jpg) no-repeat center center;
+    background-size: cover;
+}
+
+.addition_info {
+    width: 100%;
+    padding: 0;
+    margin: 0 auto;
+    display: block;
+    clear: both;
+}
+
+.addition_info .details {
+    width: 100%;
+    float: left;
+    padding: 10px 0 0 0;
+    margin: 0;
+}
+
+.addition_info .details .row {
+    margin: 0 0;
+}
+
+.addition_info .details [class*="col-"] {
+    padding: 0 0;
+}
+
+.addition_info h3 {
+    min-height: 55px;
+    padding: 5px 0 8px 0;
+    margin: 0 50px 0 -15px;
+    text-align: center;
+    position: relative;
+    background: #f1efef;
+}
+.addition_info h3:before {
+
+}
+
+.addition_info h3 span.pair {
+    font-size: 36px;
+    color: #51005e;
+    font-weight: 700;
+}
+
+.addition_info h3 span.years {
+    font-size: 24px;
+    color: #141414;
+    font-weight: 600;
+    line-height: 26px;
+}
+
+.addition_info h3 span.info {
+    font-size: 16px;
+    color: #141414;
+    font-weight: 600;
+}
+
+.addition_info h3 i {
+    width: 29px;
+    height: 100%;
+    position: absolute;
+    left: auto;
+    top: 0;
+    right: -29px;
+    background: url(../images/addition_curve_3.png) no-repeat center top;
+    background-size: 100% 100%;
+}
+
+
+/*.addition_info h3 i{ width:29px; height:100%; position:absolute; left:-29px; top:0; background:url(../images/addition_curve_1.png) no-repeat center top; background-size:100% 100%;}*/
+
+.addition_info h3 small {
+    font-size: 16px;
+    color: #ffffff;
+    font-weight: 600;
+    font-family: 'Open Sans', sans-serif;
+    position: relative;
+    top: -5px;
+}
+
+.addition_info h3.title_2 {
+    padding-top: 9px;
+    margin: 0 29px 0 0;
+    font-size: 28px;
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 300;
+    text-align: right;
+}
+
+.addition_info h3.title_2 strong {
+    font-weight: 700;
+}
+
+.addition_info h3.title_2 i {
+    left: auto;
+    right: -29px;
+    background: url(../images/addition_curve_2.png) no-repeat center top;
+    background-size: 100% 100%;
+}
+
+
+/*.addition_info h4{ padding:0; margin:20px 0 0 0; font-size:32px; color:#ffffff; text-transform:uppercase; font-style:italic; font-weight:700; text-align:left;}*/
+
+
+/*.addition_info h4 span{ font-size:30px; color:#eec228;}*/
+
+
+/*.addition_info h4.right{ text-align:right; padding-right:50px;}*/
+
+
+/*.addition_info .details figure{ width:100%; float:left; padding:0; margin: 0;}*/
+
+.addition_info .details figure.box {
+    margin-top: 30px;
+}
+
+.addition_info .details .values {
+    background-color: #ffffff;
+    margin: 20px 0 0 0;
+    padding: 10px 20px;
+}
+
+.addition_info .details .values h4 {
+ margin: 5px 0;
+    font-size: 20px;
+    color: #141414;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: 600;
+    text-align: left;
+}
+
+.addition_info .details .values .value {
+    padding: 0 0 0 15px;
+    margin-top: -10px;
+    font-size: 20px;
+    color: #51005e;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: 700;
+    text-align: left;
+}
+
+.addition_info .details .values .progress {
+    height: 12px;
+}
+
+.addition_info .details .values .progress .progress-bar {
+    background-color: #51005e;
+}
+
+.addition_info .graph_image {
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+ .addition_info .graph_image img{
+    width:100%;
+ } 
+ 
+ /*********** Trading Tool Section css **********/  
+ 
+  .trading-tool{
+	/*  background: url(../images/live-chart-bg.png) no-repeat center top; */
+	background:white;
+    text-align: center;
+    padding-top:80px;
+    padding-bottom:80px;
+    position: relative;
+	background-size:cover;
+  }
+  
+  .trading-tool .title_info span{
+    padding: 0;
+    margin: 0;
+    font-size: 80px;
+    text-transform: uppercase;
+    font-weight: 900;
+    color:#f0f1f1;
+       
+}
+.trading-tool .title_info h2{
+       color: #141414;
+    font-size: 36px;
+    font-weight: 900;
+    margin: -88px 0 0 0;
+    padding-bottom: 50px;
+}
+.trading-tool .title_info h2 strong {
+    color: #51005e;
+    font-weight: 900;
+}
+.trading-tool h3{
+      font-size: 34px;
+    font-weight: 900;
+    color: #000;
+    margin-bottom: 45px;
+    
+}
+.trading-tool h3 strong{
+    font-weight:900;
+    color:#51005e;
+    
+}
+.trading-tool p{
+     font-size: 16px;
+    color: #141414;
+    font-weight: 600;
+    width: 75%;
+    margin: 0 auto;
+    text-align: left;
+    margin-bottom: 28px;
+  }
+ 
+ .trading-tool p strong{
+    color: #51005e;
+ }
+ 
+  /*********** Protect Trading Account Section css **********/  
+  
+ #protect-account{
+    background: url(../images/ForexProIndicator-bg4.jpg) no-repeat center top;
+    padding-top:80px;
+    padding-bottom:80px;
+    background-size:cover ;
+    background-attachment: fixed;
+    position: relative;
+ }
+ 
+ #protect-account .title_info{
+    text-align: left;
+ }
+ 
+   #protect-account .title_info span{
+    padding: 0;
+    margin: 0;
+    font-size: 80px;
+    text-transform: uppercase;
+    font-weight: 900;
+    color:#fff;
+       
+}
+#protect-account .title_info h2{
+       color: #51005e;
+    font-size: 36px;
+    font-weight: 900;
+    margin: -72px 0 0 0;
+    padding-bottom: 50px;
+}
+#protect-account .title_info h2 strong {
+    color: #51005e;
+    font-weight: 900;
+}
+#protect-account h3{
+      font-size: 24px;
+    font-weight: 900;
+    color: #000;
+    margin-bottom: 45px;
+    
+}
+#protect-account h3 strong{
+    font-weight:900;
+    color:#51005e;
+    
+}
+     #protect-account p{
+     font-size: 16px;
+    color: #141414;
+    font-weight: 600;
+    width: 90%;
+    margin-bottom: 28px;
+  }
+ 
+ #protect-account p strong{
+    color: #51005e;
+    font-weight: 900;
+ }
+ 
+ 
+   /*********** Top Features Section css **********/  
+   
+ .top-features{
+     background: url(../images/bg05-edit.jpg) no-repeat center top;
+    padding-top:80px;
+    padding-bottom:80px;
+    background-size:cover ;
+    position: relative;
+ }  
+ 
+
+  .top-features .title_info span{
+    padding: 0;
+    margin: 0;
+    font-size: 80px;
+    text-transform: uppercase;
+    font-weight: 900;
+    color:#6d007f;
+       
+}
+.top-features .title_info h2{
+       color: #fff;
+    font-size: 36px;
+    font-weight: 900;
+    margin: -72px 0 0 0;
+    padding-bottom: 50px;
+}
+
+.top-features .title_info h1{
+       color: #fff;
+    font-size: 36px;
+    font-weight: 900;
+
+}
+
+.top-features .title_info h2 strong {
+    color: #51005e;
+    font-weight: 900;
+}
+ 
+ .top-features .content{
+    padding-top:15px;
+ }
+ 
+ .top-features ul{
+     margin-left: 0px;
+     margin-top: 30px;
+    padding-left:0px;
+ }
+ .top-features ul li{
+    list-style: none;
+    margin-bottom:20px;
+	margin-left:70px;
+ }
+  .top-features ul li{
+    text-decoration: none;
+      font-size: 19px;
+    color:#fff;
+      line-height: 15px;
+    position: relative;
+  }
+   /*.top-features ul li a:before{*/
+     /*content: "";*/
+    /*font-size: 14px;*/
+    /*position: absolute;*/
+    /*left: -33px;*/
+    /*color: #000;*/
+    /*border: 2px solid #fff;*/
+    /*width: 14px;*/
+    /*height: 14px;*/
+    /*border-radius: 200px;*/
+    /*background: #0254a3;*/
+    /*top: 2px;*/
+
+   /*}*/
+
+   .top-features p{
+       margin-top: 80px;
+       margin-left: 70px;
+       color: #fff;
+       font-size: 20px;
+       font-weight: 600;
+   }
+   
+  
+   /*********** Trading Profit Section css **********/  
+   
+ #trading-profit{
+    padding-top:80px;
+    padding-bottom:80px;
+    position: relative;
+ }  
+ 
+
+  #trading-profit .title_info span{
+    padding: 0;
+    margin: 0;
+    font-size: 80px;
+    text-transform: uppercase;
+    font-weight: 900;
+    color:#f0f1f1;
+       
+}
+#trading-profit .title_info h2{
+       color: #51005e;
+    font-size: 36px;
+    font-weight: 900;
+    margin: -72px 0 0 0;
+    padding-bottom: 50px;
+	
+}
+#trading-profit .title_info h2 strong {
+    color: #51005e;
+    font-weight: 900;
+}  
+   
+ #trading-profit  h3{
+      font-size: 32px;
+    font-weight: 900;
+    color: #000;
+    margin-bottom: 45px;
+    text-align: center;  
+}
+#trading-profit  h3 strong{
+    font-weight:900;
+    color:#51005e;
+    
+}
+#trading-profit .detail{
+    position: relative;
+}
+
+     #trading-profit .details p{
+     font-size: 16px;
+    color: #141414;
+    font-weight: 600;
+    /*width: 90%;*/
+    margin-bottom: 28px;
+  }
+   #trading-profit .details:before{
+    content: "";
+    /** background: url(../images/trading-icon.jpg)no-repeat top center; **/
+    width: 37px;
+    height: 40px;
+    position: absolute;
+    left: -35px;
+   }
+ 
+#trading-profit .details p strong{
+    color: #51005e;
+    font-weight: 900;
+ }
+ 
+ 
+  /*********** Investment Protect Section css **********/  
+ 
+ #investment-protect{
+    background: url(../images/invest-protect-bg3.png) repeat-x;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    text-align: center;
+    background-size: contain;
+    position: relative;
+	background-color:#f1f2f2;
+	    
+ }
+ 
+
+#investment-protect .title_info h2{
+         color: #fff;
+    font-size: 36px;
+    font-weight: 900;
+    margin: 40px 0 0 0;
+    /* padding-bottom: 50px; */
+    text-align: CENTER;
+}
+#investment-protect .title_info h2 strong {
+    color: #51005e;
+    font-weight: 900;
+}  
+   
+ #investment-protect  h3{
+      font-size: 32px;
+    font-weight: 900;
+    color: #fff;
+    margin-bottom: 45px;
+    text-align: center;  
+}
+ #investment-protect p{
+    color:#fff;
+    font-size:16px;
+ }
+  #investment-protect .money-back{
+   background: #fff;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    width: 60%;
+    margin: 0 auto;
+    border-radius: 6px;
+    margin-top: 105px;
+  }
+  #investment-protect .money-back img{
+    margin-top:-135px;
+  }
+      #investment-protect .money-back h4{
+            background: #51005e;
+    color: #fff;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 24px;
+        margin-bottom: 25px;
+      }
+   
+   #investment-protect .money-back h4 strong{
+    color:#000;
+    font-weight:900;
+   }  
+   #investment-protect .money-back h5{
+    font-weight: 900;
+    font-size:18px;
+   }
+   #investment-protect .money-back p{
+    color:#000;
+   } 
+   
+  /*********** Three Steps Section css **********/     
+  #live-chart .click {
+		margin-bottom:66px; ;
+	}
+	 #live-chart #videonew{
+		 margin-bottom:500px;
+	 }
+	 #live-chart .title_info{
+		 margin-bottom:36px;
+	 }
+  #three-steps{
+      background: #f1f2f2;
+     padding-top: 100px;
+    padding-bottom: 120px;
+    text-align: center;
+    position: relative;
+  }
+  
+   #three-steps .title_info h2{
+         color: #0362bb;
+    font-size: 26px;
+    font-weight: 900;
+    margin: 40px 0 0 0;
+    /* padding-bottom: 50px; */
+    text-align: CENTER;
+}
+ #three-steps .title_info h2 strong {
+    color: #51005e;
+    font-weight: 900;
+}  
+ #three-steps  .click {
+    width: 100%;
+    float: left;
+    padding: 0;
+    margin-top: 60px;
+    font-size: 22px;
+    color: #628f8f;
+    text-transform: uppercase;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: 600;
+}
+
+ #three-steps  .click a {
+    color: #023bcb;
+    text-decoration: underline;
+    letter-spacing: 1px;
+}
+
+ #three-steps  .click a:hover {
+    color: #eec228;
+}
+#losing-mistake-3 .title_info h2 {
+    margin-top: -91px;
+   
+}
+#losing-mistake-3 {
+	  background: url(../images/profitable-bg.png) no-repeat center top;
+	  position: relative;
+	background-size:cover;
+}
+#quick-introduction-228  .title_info h2 {
+    margin-top: -73px;
+   
+}
+/************ Support Section Css **********/
+  
+ .support_sec {
+    text-align: center;
+    margin: 0;
+    background: url(../images/ForexProIndicator-bg11-edit.jpg) no-repeat center top;
+    width: 100%;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    position: relative;
+	background-size:cover;
+}
+
+.support_sec .title_info h2 {
+    margin-top: -83px;
+    color: #fff;
+}
+
+.support_sec .title_info span {
+    font-size: 100px;
+    color:#7c0190;
+}
+
+.support_sec p {
+    font-size: 18px;
+    line-height: 28px;
+    color: #ffffff;
+    font-weight: normal;
+    margin: 0;
+    padding: 0 0 35px 0;
+}
+
+.support_sec .block_c {
+    margin: 0 -15px;
+    padding: 0;
+    font-size: 0;
+}
+
+.support_sec .block {
+    margin: 0 0 35px 0;
+    padding: 0 15px;
+    width: 33.33%;
+    float: none;
+    text-align: left;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.support_sec .block .desc {
+    margin: 0 0 0 87px;
+    padding: 0 0 0 27px;
+    position: relative;
+    min-height: 184px;
+}
+
+.support_sec .block .icon {
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    left: -87px;
+    top: 0;
+    width: 70px;
+}
+
+.support_sec .block .icon img {
+    max-width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.support_sec .block h4 {
+  font-size: 18px;
+    line-height: 20px;
+    color: #ffffff;
+    font-weight: 700;
+    margin: 0;
+    padding: 0 0 10px 0;
+    min-height: 42px;
+}
+
+.support_sec .block p {
+    font-size: 14px;
+    line-height: 22px;
+    color: #ffffff;
+    font-weight: 300;
+    margin: 0;
+    padding: 0 0 0 0;
+}
+
+.support_sec .block .desc:before {
+    content: '';
+    position: absolute;
+    top: 14px;
+    bottom: 3px;
+    left: 6px;
+    width: 1px;
+    background: #fff;
+}
+
+.support_sec .block .desc:after {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 14px;
+    height: 14px;
+    border-radius: 50%;
+    border: 2px solid #fff;
+}  
+   
+   
+  /*******************  get started  ***********************/ 
+   div#getstarted {
+    width: 100%;
+    min-height:211px;    
+    background: url(../images/ForexProIndicator-bg2.jpg)no-repeat top center;
+    background-size: cover;
+    padding: 100px 0px;
+    text-align: center;
+    position: relative;
+    padding-top: 100px;
+    padding-bottom: 120px;
+}
+    
+ div#getstarted p {
+    font-family: 'Raleway', sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+    color: #000;
+    
+}    
+    div#getstarted h3 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 22px;
+    font-weight: 500;
+    color: #000;
+    
+}
+div#getstarted h2 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 36px;
+    font-weight: 700;
+    color: #000;
+    
+}
+
+
+/*******************  forex-project-design  ***********************/ 
+   div#fpdesign {
+    width: 100%;
+    min-height:948px;    
+    background: url(../images/project-design-bg.png)no-repeat top center;
+    background-size: cover;
+    padding: 0px;
+    text-align: center;
+    padding-bottom: 80px;
+    position: relative;
+    }
+	
+	 div#fpdesign h7{
+     font-size: 25px;
+    color:#ff0000;
+    font-weight: 800;
+    margin: 0;
+	font-family: 'Raleway', sans-serif;
+	
+  }
+    
+  div#fpdesign   .fpdesign_inner {
+     padding-top: 80px;}
+     
+  div#fpdesign   .fpdesign_inner .money-back img {
+    width: 427px;
+    max-width: 100%;}
+    
+  div#fpdesign   .cards .visa img {
+    width: 60px;
+    max-width: 100%;}
+    
+ /*   
+    .col-md-4 {
+    width: 33.333%;
+    display: inline-block;
+    float: left;
+  }*/
+     
+    div#fpdesign .fpdesign_inner ul.first {
+    margin: 0;
+    padding: 0;
+    margin-top: 70px;  
+    
+}   
+ div#fpdesign .fpdesign_inner ul.first li {
+    display: inline-block;
+    list-style: none;
+    margin: 8px 0px;
+   
+}
+    
+ div#fpdesign .fpdesign_inner ul.first li img {
+    display: inline-block;
+    margin-right: 20px;
+    float: left;
+}
+    
+    
+ div#fpdesign .fpdesign_inner ul.first li a {
+    color: #141414;
+    padding: 0;
+    display: inline-block;
+    font-size: 16px;
+    text-decoration: none;
+    font-weight: 500;
+    margin-top: 8px;
+}
+
+ div#fpdesign .fpdesign_inner p a.order {
+    color: #fff;
+    text-decoration: none;
+    width: 100%;
+    max-width: 323px;
+    background: #51005e;
+    text-transform: capitalize;
+    font-size: 32px;
+    padding: 20px 30px;
+    border-radius: 5px;
+    margin: 0 5px;
+    display: inline-block;
+    font-weight: 600;
+    text-align: center;
+    line-height: 20px;
+    margin-top: 25px;
+    margin-left: 12px;}
+   
+ div#fpdesign .fpdesign_inner p a.order:hover {
+    color: #fff;
+    transition: all .5s ease-in;
+    box-shadow: inset 0 67px 0px #000;}
+    
+
+
+
+   div#fpdesign .title_info h2{
+   color: #51005e;
+    font-size: 36px;
+    font-weight: 900;
+    margin: -80px 0 0 0;
+    padding-bottom:0px; 
+    text-align: CENTER;
+}
+#fpdesign .title_info h2 strong {
+    color: #51005e;
+    font-weight: 900;
+} 
+#fpdesign .title_info span {
+    font-size: 100px;
+    color: #ebebeb;
+}
+
+
+ div#fpdesign .fpdesign_inner p {
+    font-family: 'Raleway', sans-serif;
+    font-size: 30px;
+    font-weight: normal;
+    color: #51005e;
+    text-align: center;
+}
+
+ div#fpdesign .fpdesign_inner p.white {
+    font-family: 'Raleway', sans-serif;
+    font-size: 30px;
+    color: #fff;
+    width: 205px;
+    background: #000;
+    text-transform: capitalize;
+    padding: 9px 0px;
+    border-radius: 7px;
+    margin: 0 25px;
+    display: inline-block;
+    font-weight: normal;
+    text-align: center;
+    line-height: 36px;
+    margin-top: 16px;
+}
+  div#fpdesign .fpdesign_inner p span.bold {
+    font-weight: 700;   
+}
+
+ div#fpdesign .fpdesign_inner .today-price {
+    padding-top: 84px;
+}
+ 
+ 
+ div#fpdesign .cards {
+    text-align: center;
+    width: 100%;
+    display: inline-block;
+    padding-top: 40px;
+}
+  div#fpdesign .cards h3 {
+    font-size: 18px;
+    font-weight: 600;
+    color: #414042;    
+   
+} 
+ div#fpdesign .cards ul.visa {
+    margin: 0;
+    padding: 0;
+    margin-top: 45px;
+}
+
+ div#fpdesign .cards ul.visa li {
+    display: inline;
+    list-style: none;
+    margin: 8px 1px;
+    width: 100%;
+}
+  
+  
+  
+ /*******************  footer  ***********************/ 
+  div#footer {
+    width: 100%;
+    background: url(../images/header_footer.jpg)no-repeat top center;
+	background-size: cover;
+    padding: 0px;
+    text-align: center;
+    /*margin-bottom: -21px;*/
+    /*min-height: 480px;*/
+    }
+    
+    .footer_inner {
+     padding-top:90px;}
+    
+  .footer_inner p {
+    color: #fff;
+    padding-left: 15px;
+    font-size: 10px;
+    /*padding-top: 20px;*/
+}
+    
+    .footer_inner p a {
+    font-weight: 700;
+    color: #fff;
+    text-decoration: none;}
+    
+    .footer_inner p a:hover{
+        text-decoration: underline;}
+    
+    
+    .footer_inner img  {
+        max-width: 100%;}
+
+
+
+#footer ul { margin:40px 0px 55px 0px; padding:0 0 25px 0; display:block; font-size:0; }
+#footer ul li { display:inline-block; vertical-align:top; padding:0 15px; margin:0 0 10px 0; font-size:14px; line-height:16px; color:#ffffff; font-weight:normal;  border-right:1px solid #ffffff; }
+#footer ul li a { font-size: 14px; color:inherit; }
+#footer ul li a:hover{font-size: 14px; color:#f6fc4e;}
+#footer ul li:last-child { border-right:none; }
+   
+   .copy-link .pull-left{
+	   font-size:16px;
+   }
+#disclaimer{
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+#disclaimer p{
+    /*width: 100%;*/
+}
+
+#quick-introduction-1 h3{
+		font-size:26px;
+		
+	}
+	#quick-introduction-1 h3 u{
+		font-size:28px;
+		
+	}
+		#fonttext{
+		font-size:34px;
+	}
+	
+	
+#quick-introduction-1 h3  #fucktext2{
+	font-size:30px;
+}
+/*******************  RESPONISVE RULZ  ***********************/
+ 
+@media screen and (max-width: 1199px) { 
+    
+  
+.anchor_arrow {
+    display:none;
+} 
+ 
+ /******************* Home Banner Section Responsive Css  ***********************/
+    
+    
+  #header .home-banner .excerpt h1 {
+    font-size: 50px;
+    font-weight: 800;
+}  
+    
+#slider-bottom h5{
+    font-size:50px;
+}
+
+
+.video-wrapper{
+    /*display:table;*/
+    /*width:auto;*/
+    /*position:relative;*/
+    /*width:50%;*/
+    cursor: pointer;
+}
+.playpause {
+    background-image:url('../images/play-buttonX.png');
+    background-repeat:no-repeat;
+    width:50%;
+    height:50%;
+    position:absolute;
+    left:0%;
+    right:0%;
+    top:0%;
+    bottom:0%;
+    margin:auto;
+    /*background-size:cover;*/
+    background-position: center;
+    display: none;
+}
+
+.video-wrapper2{
+    /*display:table;*/
+    /*width:auto;*/
+    /*position:relative;*/
+    /*width:50%;*/
+    cursor: pointer;
+}
+.playpause2 {
+    background-image:url('../images/play-buttonX.png');
+    background-repeat:no-repeat;
+    width:50%;
+    height:50%;
+    position:absolute;
+    left:0%;
+    right:0%;
+    top:0%;
+    bottom:0%;
+    margin:auto;
+    /*background-size:cover;*/
+    background-position: center;
+    display: none;
+}
+
+ /*******************  Whats New Section Responsive Css  ***********************/ 
+
+
+
+        #whats-new ul li {
+    padding: 0;
+    display: inline-block;
+    margin: 0 21px -28px;
+}
+        
+        #whats-new .block {
+    width: 120px;
+    height: 120px;
+}
+   #whats-new .block .inner {
+    left: -10px !important;
+    bottom: 5px;
+    padding: 0 0px;
+} 
+#whats-new .block .count {
+    font-size: 70px;
+    left: -5px;
+    top: 4px;
+    right: 0;
+}
+#whats-new .block i img {
+    width: 40px;
+    height: 40px;
+}
+#whats-new .block h3 {
+    font-size: 14px;
+line-height: 13px;
+font-weight: 500;
+}
+#whats-new .whats-new_desc{
+    clear:both;
+    padding-top:150px;
+}
+#whats-new .whats-new_desc figure {
+    margin: 0px 0px 0px 8px;
+}
+#whats-new .whats-new_desc figure img{
+    width:100%;
+}
+
+
+ /******************* Live chart Section Responsive Css  ***********************/ 
+
+#live-chart figure img{
+    width:100%;
+}
+
+ #live-chart h7{
+     font-size: 25px;
+    color:#ff0000;
+    font-weight: 800;
+    margin: 0;
+	font-family: 'Raleway', sans-serif;
+	
+  }
+
+
+
+ /*******************  Broker Section Responsive Css  ***********************/ 
+
+.developed_sec .block figure img{
+    width:100%;
+}
+.developed_sec .block h3{
+    min-height: 80px;
+}
+.developed_sec .title_info span {
+    font-size: 73px;
+	
+}
+
+ /*******************   Secret Sauce  Section  Responsive Css  ***********************/
+ 
+ .secret-sauce h4{
+    min-height: 100px;
+ }
+ .secret-sauce .container{
+    width:100%;
+ }
+ 
+  /*******************   17 years of Testing  Section  Responsive Css  ***********************/
+ 
+ .testing-years .container{
+    width:100%;
+ }
+ .tab_info .nav-tabs.nav-justified > li > a{
+    font-size:16px;
+    padding: 12px 5px;
+ }
+ .tab_info .nav-tabs.nav-justified > li > a small{
+    font-size:10px;
+ }
+ 
+ .addition_info h3 span.pair, .addition_info h3 span.years{
+    font-size:16px;
+ }
+ .addition_info .details figure.box img{
+    width:100%;
+ }
+ 
+   /*******************   Protect Trading Account Section   Responsive Css  ***********************/
+ 
+ #protect-account .content{
+    width:100%;
+    text-align: center;
+ }
+ #protect-account .title_info {
+    text-align: center;
+}
+#protect-account p{
+    width:100%;
+}
+
+ 
+   /*******************    Top Features Section  Responsive Css  ***********************/
+
+
+.top-features .book-pic img{
+    width:100%;
+} 
+
+.top-features ul li a{
+    font-size:14px;
+}
+
+.top-features ul li a::before {
+
+    content: "";
+    font-size: 9px;
+    position: absolute;
+    left: -18px;
+    color: #000;
+    border: 1px solid #fff;
+    width: 10px;
+    height: 10px;
+    border-radius: 200px;
+    background: #000;
+    top: 2px;
+
+}
+
+
+   /*******************    Trading Profit Section  Responsive Css  ***********************/
+
+
+#trading-profit .details::before {
+    content:none;
+}
+
+
+   /*******************   Support Section  Responsive Css  ***********************/
+
+
+.support_sec .block .desc {
+    margin: 0 0 0 0px;
+    padding: 0 0 0 20px;
+}
+
+   /*******************    forex project design   Responsive Css  ***********************/
+
+
+div#fpdesign{
+    text-align: center;
+}
+
+div#fpdesign .money-back{
+    text-align: center;
+}
+div#fpdesign .fpdesign_inner ul.first li {
+
+    /*
+    width: 48%;
+    text-align: left;
+    float: left;
+    */
+}
+div#fpdesign .fpdesign_inner ul.first li a{
+    font-size:14px;
+}
+div#fpdesign .fpdesign_inner p a.order{
+    margin-left:9px;
+}
+div#fpdesign .fpdesign_inner p.white{
+    margin: 0 auto;
+    display: block;
+}
+div#fpdesign .fpdesign_inner ul.first li img{
+    width:28px;
+}
+}
+  
+  @media screen and (max-width: 991px) {
+   
+    /*******************    forex project design   Responsive Css  ***********************/
+
+div#fpdesign .fpdesign_inner ul.first li {
+
+    
+    width: 48%;
+    text-align: left;
+    float: left;
+    
+}  
+    }
+    #header .home-banner{
+		padding-bottom:25px;
+	}
+    
+@media screen and (max-width: 767px) {
+
+
+    .top-features ul{
+        margin-top: 50px !important;
+    }
+
+    .top-features ul li{
+        list-style: none;
+        margin-bottom:20px;
+        margin-left:10px;
+
+    }
+    .top-features ul li{
+        text-decoration: none;
+        font-size: 19px;
+        color:#fff;
+        line-height: 25px;
+        position: relative;
+    }
+
+    .top-features p{
+        margin-left:10px;
+    }
+.top-features h3{
+	 margin-top: 80px;
+       margin-left: 70px;
+       color: red;
+       font-size: 20px;
+       font-weight: 600;
+}
+    /*******************  Whats New Section Responsive Css  ***********************/ 
+    
+    #whats-new .block {
+    height: 120px;
+    width: 100%;
+}
+#whats-new .block .inner {
+    left: 0px !important;
+}
+ #whats-new .block .count {
+    font-size: 70px;
+    left: 30px;
+    top: 14px;
+    right: 0;
+    text-align: left;
+}   
+    
+  #whats-new .block , #whats-new .block .inner{
+    transform: rotate(0deg);
+  }  
+  
+  #whats-new ul li {
+    padding: 0;
+    display: block;
+    margin-bottom: 18px;
+}
+  .whats-new_desc .inner {
+    margin: 0px 0 0 0;
+}
+#whats-new .whats-new_desc .cd-pic{
+    text-align: center;
+}
+#whats-new .whats-new_desc .cd-pic img{
+    width:200px;
+}
+
+  /*******************  Advantages-of-forex Section Responsive Css  ***********************/ 
+
+#advantages-of-forex{
+    padding-bottom:0px;
+}
+#advantages-of-forex .detials{
+    background: none;
+    margin-top: 25px;
+margin-bottom: 40px;
+}
+
+#advantages-of-forex .detials .block_1 , #advantages-of-forex .detials .block_2 , #advantages-of-forex .detials .block_3 ,#advantages-of-forex .detials .block_4 ,
+#advantages-of-forex .detials .block_5 , #advantages-of-forex .detials .block_6 , #advantages-of-forex .detials .block_7 ,#advantages-of-forex .detials .block_8
+{
+    background: none;
+    position: relative;
+    padding:0px 0px 0px 0px;
+    top:0px;
+    left:0px;
+    right:0px;
+}
+
+#advantages-of-forex .detials .block{
+        background: url(../images/block-3.png) no-repeat top center;
+display: inline-block;
+margin-right: 0px !important;
+width: 46% !important;
+margin-bottom: 38px !important;
+position: relative;
+}
+
+
+    #advantages-of-forex .detials .block_1 i.icon{
+        position: absolute;
+        right: 90px;
+        top: 48px;
+    }
+
+    #advantages-of-forex .detials .block_2 i.icon{
+        position: absolute;
+        right: 90px;
+        top: 47px;
+    }
+
+
+    #advantages-of-forex .detials .block_3 i.icon{
+        position: absolute;
+        right: 90px;
+        top: 49px;
+    }
+
+
+    #advantages-of-forex .detials .block_4 i.icon{
+        position: absolute;
+        right: 89px;
+        bottom: 111px;
+    }
+
+
+    #advantages-of-forex .detials .block_5 i.icon{
+        position: absolute;
+        right: 91px;
+        bottom: 110px;
+    }
+
+
+    #advantages-of-forex .detials .block_6 i.icon{
+        position: absolute;
+        left: 207px;
+        bottom: 109px
+    }
+
+
+    #advantages-of-forex .detials .block_7 i.icon{
+        position: absolute;
+        left: 206px;
+        top: 49px;
+    }
+
+
+    #advantages-of-forex .detials .block_8 i.icon{
+        position: absolute;
+        left: 207px;
+        top: 48px;
+    }
+
+
+#advantages-of-forex .detials .block p{
+    position: absolute;
+top: 75px;
+left: -24px;
+right: 0;
+width: 41%;
+margin: 0px auto;
+text-align: Center;
+padding: 0px;
+}
+
+#advantages-of-forex .detials .main-info {
+  
+    background: #000;
+    width: 200px;
+    border-radius: 100%;
+    height: 200px;
+    padding-top: 45px;
+    position: relative;
+      top: 0px;
+}
+.addition_info h3{
+    border-right: 7px solid #51005e;
+}
+
+  /*******************   17 years of Testing  Section  Responsive Css  ***********************/
+
+.panel-default > .panel-heading {
+    color: #fff;
+    background-color: #51005e;
+    border-color: #51005e;
+}
+.panel-title small{
+    color:#fff;
+}
+.tab_info{
+    margin: 50px 0 20px 0;
+}
+.testing-years{
+    padding-bottom:10px;
+    }
+    
+.addition_info .details figure.box img {
+    width: 200px;
+}    
+#testing-years-2{
+	background: url(../images/ForexProIndicator-bg2.jpg) no-repeat top center;
+}
+  /*******************   Top Features  Section  Responsive Css  ***********************/
+
+.top-features .book-pic{
+    text-align: center;
+}
+
+.top-features .book-pic img{
+    width:200px;
+    margin:0 auto;
+}
+.top-features .content {
+    padding-top: 25px;
+    /*text-align: center;*/
+}
+.top-features ul {
+    padding-left: 0px;
+    display: inline-block;
+    /*width: 48%;*/
+    margin: 0 auto;
+}
+
+   /*******************  Three Steps Section  Responsive Css  ***********************/ 
+   
+   #three-steps img{
+    width:100%;
+   }
+   
+      /*******************  Supports Section  Responsive Css  ***********************/ 
+   
+   #three-steps img{
+    width:100%;
+   }
+   .support_sec .block {
+    width: 48.33%;
+}
+   
+   /*******************     forex-project-design   Responsive Css  ***********************/       
+      
+
+  div#fpdesign .fpdesign_inner ul.first li img{
+    width:28px;
+  }
+  
+    div#fpdesign .fpdesign_inner ul.first li a{
+        font-size:14px;
+    }
+    
+    div#fpdesign .fpdesign_inner .money-back img {
+    width: 250px;
+
+}
+  
+  .title_info span{
+    font-size: 50px!important;
+  }  
+    
+    
+  #header .home-banner .excerpt h1 {
+    font-size: 36px;
+    font-weight: 800;
+}    
+    
+}    
+    
+@media screen and (max-width: 600px) {  
+    
+   /******************* Home Banner Section Responsive Css  ***********************/
+
+
+    
+#slider-bottom h2, #slider-bottom h3 , #slider-bottom h4 , #slider-bottom h5{
+    font-size:36px;
+}  
+
+   #header .home-banner .cd-pic img{
+    width:100%;
+   } 
+   
+   /*******************  Whats New Section Responsive Css  ***********************/ 
+   
+   #whats-new .block .count {
+    font-size: 55px;
+    left: 10px;
+    top: 0px;
+    right: 0;
+    text-align: left;
+}
+#whats-new .block h3 {
+    font-size: 14px;
+    width: 60%;
+    margin: 25px auto;
+}
+   
+ #whats-new .whats-new_desc {
+    clear: both;
+    padding-top: 15px;
+}  
+
+   /*******************  Advantages of Forex Section Responsive Css  ***********************/ 
+ 
+ #advantages-of-forex .detials .block {
+    background: url(../images/block-3.png) no-repeat top center;
+    display: inline-block;
+    margin-right: 0px !important;
+    width: 49% !important;
+    margin-bottom: 0px !important;
+    position: relative;
+    background-size: contain;
+    height: 150px;
+}
+
+ #advantages-of-forex .detials .block p {
+    position: absolute;
+    top: 50px;
+    left: -13px;
+    right: 0;
+    width: 33%;
+    margin: 0px auto;
+    text-align: Center;
+    padding: 0px;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+   /*******************   Profitable Strategy Section   Responsive Css  ***********************/ 
+   
+   .profitable-strategy{
+    text-align: center;
+   }
+   .profitable-strategy .title_info {
+    text-align: center;
+}
+   .profitable-strategy p {
+    width: 100%;
+}
+
+
+   /*******************     forex-project-design   Responsive Css  ***********************/       
+      
+  div#fpdesign .fpdesign_inner ul.first li {
+    width: 100%;
+}
+  div#fpdesign .fpdesign_inner ul.first li img{
+    width:28px;
+  }
+  
+    div#fpdesign .fpdesign_inner ul.first li a{
+        font-size:14px;
+    }
+
+
+    /*#advantages-of-forex .detials .block i{*/
+        /**/
+    /*}*/
+
+}
+
+
+
+                                                                                        /*  1777775 */
+
+@media screen and (min-width: 1200px)
+{
+	
+	#developed-2 .title_info h2{
+		margin-top:-103px;
+	}
+	
+	
+}
+
+@media screen and (min-width: 501px)
+{
+	
+	#developed-2 .title_info h2{
+		margin-top:-103px;
+	}
+	
+}
+																						
+@media screen and (max-width: 1200px) {
+	.mycontainer{
+		width:375px;
+	}
+	#live-chart .title_info span{
+		font-size:73px;
+	}
+	#live-chart .title_info h2{
+		margin-top:-70px;
+	}
+	#live-chart #videonew{
+		margin-bottom:430px;
+	}
+	.mycenter{
+		margin-left:100px;
+	}
+	#quick-introduction-1 h3{
+		font-size:22px;
+		
+	}
+	#quick-introduction-1 h3 u{
+		font-size:20px;
+		
+	}
+	.mycontainertext{
+		width:595px;
+	}
+	.mytext1 h3 {
+		/* margin-left:-141px; */
+	}
+	#header .home-banner  .excerpt img{
+		max-width:37%;
+	}
+	#header #headvideo{
+		padding-bottom:366px;
+	} 
+	#video{
+		margin-top:-404px !important;
+	}
+}
+
+
+@media screen and (max-width: 990px) {
+
+
+#header .home-banner  .excerpt img{
+		max-width:47%;
+	}
+	#live-chart #videonew{
+		margin-bottom:500px;
+	}
+	.mycontainer{
+		width:200px;
+	}
+	.mycenter{
+		margin:auto;
+		width:200px;
+		
+	}
+	.mycontainertext{
+		width:500px;
+	}
+	.mytext1 h3 {
+		margin-left:45px;
+		
+	}
+	.mytext2{
+		padding-left:117px;
+		margin-right:-25px;
+	}
+	.mytext3{
+		margin-left:50px;
+		margin-top:40px;
+	}
+	.support_sec .title_info span{
+		font-size:67px;
+	}
+	.support_sec .title_info h2{
+		margin-top:-66px;
+	}
+}
+
+
+@media screen and (max-width: 850px){
+	#header .home-banner #secondvid{
+		margin-bottom:-51px !important;
+	}
+	#header .home-banner .excerpt{
+		padding-bottom:40px;
+	}
+	.quick-introduction h3{
+		font-size:23px;
+	}
+	.testing-years center img{
+		max-width:36%;
+	}
+	#losing-mistake-3 .title_info h2{
+		font-size:29px !important;
+	}
+	.trading-tool .wow center img{
+		width:93%;
+	}
+	.trading-tool #mobile1 {
+		width:55%;
+	}
+	.trading-tool{
+		padding-bottom:7px;
+	}
+#investment-protect 	.title_info h2{
+		font-size:33px !important;
+	}
+	#investment-protect {
+		padding-top:50px;
+	}
+	.trading-tool h3{
+		font-size:29px;
+	}
+	.trading-tool .wow center img{
+		width:100%;
+	}
+	/* .trading-tool .wow center img{
+		width:66%;
+	} */
+	.secret-sauce h3{
+		font-size:27px;
+	}
+}
+
+@media screen and (max-width: 790px) {
+	.mycontainer{
+		width:200px;
+	}
+	#back-top{
+		display:none !important;
+	}
+	#header #headvideo{
+		padding-bottom:366px;
+	} 
+	#video{
+		margin-top:-450px !important;
+	}
+	.mycenter{
+		margin-left:15px;
+		width:200px;
+		
+	}
+	.mycontainertext{
+		width:500px;
+		margin-top:-27px;
+	}
+	.mytext1 h3 {
+		margin-left:40px;
+		color:#fff;
+		
+	}
+	.mytext2{
+		padding-left:117px;
+		margin-right:-25px;
+	}
+	.mytext3{
+		margin-left:50px;
+		margin-top:40px;
+	}
+	.losing-mistake .title_info h2{
+		margin-top:-87px;
+	}
+	#member-a center img{
+		max-width:85%;
+	}
+	.footer_inner img{
+		max-width:100%;
+	}
+}
+
+@media screen and (max-width: 767px){
+	.title_info h2{
+		margin:0 0 0 0;
+	}
+	#live-chart .title_info h2{
+		margin-top:0px !important;
+		font-size:34px !important;
+	}
+	.title_info span{
+		display:none !important;
+	}
+	.title_info h2{
+		margin-top:-63px !important;
+	}
+	.title_info h3{
+		margin-top:-63px !important;
+	}
+		#video{
+		margin-top:-453px !important;
+	}
+	#header .home-banner .excerpt{
+	
+	}
+}
+ 
+	@media screen and (max-width: 735px) {
+	.mycontainer{
+		width:100%;
+		margin-top:-33px;
+		
+	}
+		#live-chart #videonew{
+		margin-bottom:430px;
+	}
+	#header center img{
+		width:50%;
+	}
+	.mycenter{
+		margin:auto;
+		width:144px;
+		
+	}
+	.mycontainertext{
+		width:100%;
+		margin-top:-40px;
+		margin-left:auto;
+		margin-right:auto;
+		
+		
+	}
+	.mytext1 h3 {
+		margin-left:35px;
+		color:#fff;
+		margin-left:auto;
+		margin-right:auto;
+		text-align:center;
+		
+	}
+	.mytext2{
+		text-align:center;
+		margin-left:-10%;
+		margin-right:auto;
+		
+	}
+	.mytext3{
+		padding:0;
+		text-align:center;
+		margin-top:40px;
+		margin-bottom:-10px;
+		margin-left:0;
+	}
+}
+@media screen and (max-width: 690px){
+		#video{
+		margin-top:-340px !important;
+	}
+	#header .home-banner .excerpt{
+		margin-bottom:-121px;
+	}
+	#member-a figure img{
+		max-width :48%;
+	}
+	.faq-image-question{
+		float:inherit;
+		margin-right:0;
+		margin-left:0;
+		width:33%;
+		
+	}
+	.faq-image-answer{
+		float:inherit;
+		margin-right:0;
+		margin-left:0;
+		margin-bottom:10px;
+		width:33%;
+	}
+	#faq p{
+		font-size:15px;
+		text-align:center;
+	}
+}
+@media screen and (max-width: 600px){
+	.title_info{
+		margin-top:-25px;
+	}
+	.developed_sec .title_info{
+		margin-top:-25px;
+	}
+		#live-chart #videonew{
+		margin-bottom:400px;
+	}
+}
+@media screen and (max-width: 570px){
+	.money-back img{
+		width:100%;
+	}
+	#video{
+		margin-top:-404px !important;
+	}
+	#header .home-banner .excerpt{
+		margin-bottom:-47px;
+	}
+}
+
+@media screen and (max-width: 532px) {
+	.mycontainer{
+		width:100%;
+		margin-top:-33px;
+		
+	}
+		#live-chart #videonew{
+		margin-bottom:339px;
+	}
+	.quick-introduction h3 strong{
+		font-size:19px !important;
+	}
+	#fucktext{
+		font-size:16px !important;
+	}
+	#member-a  a {
+		font-size:14px;
+	}
+	.copy-link .pull-left{
+		font-size:15px;
+		
+	}
+	#member-a  p {
+		font-size:14px;
+	}
+	#member-a h3 strong{
+		font-size:21px;
+	}
+	#member-a center span b{
+		font-size:19px;
+	}
+	.mycenter{
+		margin:auto;
+		width:144px;
+		
+	}
+	.mycontainertext{
+		width:100%;
+		margin-top:-40px;
+		
+	}
+	.mytext1 h3 {
+		
+		color:#fff;
+		text-align:center;
+		
+	}
+	.mytext2{
+		padding:0;
+		margin-left:97px;
+		margin-right:0;
+		text-align:left;
+	}
+	.mytext3{
+		text-align:center;
+		margin:0;
+		margin-bottom:-10px;
+	}
+}
+
+@media screen and (max-width: 500px) {
+	.mycontainer{
+		width:100%;
+		margin-top:-33px;
+		
+	}
+	#live-chart{
+		padding-bottom:20px;
+		padding-top:40px;
+	}
+	.trading-tool .h2, h2{
+		font-size:20px !important;
+	}
+		#live-chart #videonew{
+		margin-bottom:330px;
+	}
+	#live-chart .click {
+		margin-bottom:45px;
+	}
+	#live-chart .title_info{
+		margin-bottom:-20px;
+	}
+	#live-chart #borderoff{
+		border-style:none !important;
+		padding:0 0 0 0 !important;
+	}
+	#live-chart #live6col{
+		padding-left:10px !important;
+		padding-right:10px !important;
+	}
+ 
+	#live-chart .title_info h2{
+		font-size:26px !important;
+	}
+	#live-chart h1 {
+		font-size:22px;
+	}
+	#member-a .text-center p { 
+	font-size:11px;
+		
+	}
+	#header .home-banner{
+		margin-bottom:6px;
+	}
+	#quick-introduction-1 div{
+		font-size:13px;
+	}
+	#member-a #textxxx{
+		font-size:12px;
+	}
+	  #header .home-banner{
+		padding-bottom:5px;
+	}
+	#header .home-banner  .excerpt img{
+		max-width:63%;
+	}
+	#header center img{
+		width:70%;
+	}
+	.support_sec p{
+		font-size:15px;
+	}
+	.mytext2 b{
+		margin-left:8px;
+	}
+	.support_sec .block p{
+		font-size:11px;
+	}
+	.support_sec .block h4{
+		font-size:15px;
+	}
+	div#fpdesign .fpdesign_inner ul.first li a{
+		font-size:12px;
+	}
+	.mycenter{
+		margin:auto;
+		width:144px;
+		
+	}
+	#investment-protect p{
+		font-size:13px;
+	}
+	.mycontainertext{
+		width:100%;
+		margin-top:-40px;
+		
+	}
+	.mytext1 h3 {
+		
+		color:#fff;
+		text-align:center;
+		
+	}
+	.mytext2{
+		padding:0;
+		margin-left:90px;
+		margin-right:0;
+		text-align:left;
+		font-size:16px;
+	}
+	#step{
+		font-size:18px;
+	}
+	.mytext3{
+		text-align:center;
+		margin:0;
+		margin-bottom:-10px;
+	}
+	
+	.title_info span{
+		display:none;
+	}
+	
+	#protect-account h3{
+		font-size:22px;
+	}
+	.quick-introduction h3{
+		font-size:19px;
+	}
+	.testing-years center img{
+		max-width:93%;
+	}
+	.title_info h2{
+		font-size:30px;
+		margin-top:-22px;
+		
+	}
+	.strategy .title_info h2{
+		margin-top:-22px;
+	}
+	
+	
+	.rich-forex .title_info h2{
+		margin-top:-22px;
+	}
+	.quick-introduction .title_info h2{
+		margin-top:-22px;
+	}
+	#testing-years-1 .title_info h3{
+		margin-top:-22px;
+	}
+	.trading-tool .title_info h2 strong{
+		font-size:24px;
+	}
+	
+	#trading-tool-8 .title_info h3{
+		margin-top:-22px;
+		font-size:30px;
+	}
+	.profitable-strategy .title_info h2{
+		margin-top:-22px;
+		font-size:21px !important; 
+	}
+	.profitable-strategy h3{
+		font-size:21px;
+	}
+	#losing-mistake-3 .title_info h2{
+		margin-top:-22px;
+		font-size:20px !important;
+	}
+	.trading-tool img{
+		max-width:100%;
+	}
+	.developed_sec h3 {
+		font-size:21px;
+	}
+	.developed_sec h2 {
+		font-size:21px ;
+	}
+	.top-features .title_info h2{
+		margin-top:-22px;
+	}
+	.developed_sec .title_info h2 strong{
+		margin-top:-22px;
+		font-size:28px !important;
+	}
+	.losing-mistake .title_info h2{
+		margin-top:-22px;
+		
+	}
+	#quick-introduction-228 .title_info h2{
+		margin-top:-22px;
+	}
+	#investment-protect .title_info h2{
+		margin-top:0px;
+		font-size:29px !important;
+	}
+	.trading-tool .title_info h2{
+		margin-top:-22px ;
+		font-size:19px !important;
+	}
+	.trading-tool p{
+		font-size:14px;
+	}
+	.secret-sauce .title_info h2{
+		margin-top:-20px;
+		font-size:31px !important;
+	}
+	.secret-sauce h3{
+		font-size:22px;
+	}
+	.secret-sauce h4{
+		font-size:20px;
+	}
+	.losing-mistake .title_info h2{
+		font-size:32px !important ;
+	}
+	.developed_sec .title_info h2{
+		font-size:30px !important;
+	}
+	#whats-new h2{
+		font-size:30px;
+	}
+	#quick-introduction-228 .title_info h2{
+		font-size:30px !important;
+	}
+	.support_sec .title_info h2{
+		margin-top:-18px;
+	}
+	div#fpdesign .title_info h2{
+		margin-top:-20px;
+	}
+	#header .home-banner .cd-pic{
+		margin-bottom:
+	}
+	#slider-bottom center {
+		margin-top:-27px;
+	}
+	#header .home-banner #secondvid{
+		margin-bottom:-159px !important;
+	}
+	#header .home-banner .excerpt{
+		padding-bottom:164px;
+	}
+	
+	#slider-bottom{
+		
+		margin-top:-23px;
+		margin-bottom:-10px;
+	}
+	#slider-bottom a u b {
+		font-size:15px !important;
+	}
+	#whats-new .whats-new_desc .cd-pic img{
+		width:300px;
+		margin-bottom:20px;
+	}
+	.developed_sec .block h3{
+		padding-top:25px;
+	}
+	.strategy b strong{
+		font-size:17px !important;
+	}
+	.strategy p{
+		font-size:14px !important;
+	}
+	#whats-new{
+		padding-top:20px;
+		padding-bottom:0px;
+	}
+	.developed_sec .title_info h2{
+		margin-top:-40px;
+	}
+	.developed_sec{
+		padding-bottom:10px;
+	}
+	.strategy{
+		padding-bottom:50px;
+	}
+	.rich-forex{
+		padding-bottom:40px;
+	}
+	.quick-introduction{
+		padding-bottom:40px;
+	}
+	.testing-years{
+		padding-bottom:33px;
+	}
+	#protect-account .title_info h2{
+		margin-top:-25px;
+	}
+	#protect-account{
+		padding-bottom:15px;
+	}
+	.trading-tool{
+		padding-bottom:15px;
+	}
+	.profitable-strategy{
+		padding-bottom:15px;
+	}
+	.rich-forex{
+		padding-bottom:15px;
+	}
+	#losing-mistake-3{
+		padding-bottom:15px;
+	}
+	.top-features{
+		padding-bottom:25px;
+	}
+	.losing-mistake{
+		padding-bottom:15px;
+	}
+	#investment-protect{
+		padding-bottom:22px;
+		}
+	.secret-sauce{
+		padding-bottom:13px;
+	}
+	.strategy{
+		padding-bottom:5px;
+	}
+	#faq{
+		padding-top:20px;
+	}
+	div#getstarted{
+		padding-bottom:17px;
+		padding-top:27px;
+	}
+	#footer ul{
+		padding-bottom:20px;
+	}
+	#disclaimer{
+		padding-bottom:45px;
+		padding-top:45px;
+	}
+	.trading-tool .title_info h2{
+		
+		padding-bottom:21px;
+	}
+	.trading-tool p strong{
+		font-size:16px;
+	}
+	.trading-tool .h2, h2{
+		font-size:25px;
+	}
+	.top-features .title_info h2{
+		font-size:28px !important;
+	}
+	.top-features .content{
+		margin-top:33px;
+		padding-left:15px;
+		padding-right:15px;
+	}
+	.mytext2{
+		padding-left
+	}
+	.mytext2 b {
+		text-align:center;
+	}
+	.mytext1 h3{
+		text-align:center;
+		margin:0;
+	}
+/* 	----------500px--------------------- */
+}
+
+@media screen and (max-width: 420px){
+    #investment-protect .money-back{
+		width:86%;
+	}
+	
+		#live-chart #videonew{
+		margin-bottom:266px;
+		/* margin-top:-20px; */
+	}
+	#live-chart	a u b{
+	 font-size:16px;
+ }
+ #live-chart h1{
+	 margin-bottom:-13px;
+ }
+	#quick-introduction-1 h3  #fucktext2{
+	font-size:20px;
+}
+ #member-a	#fucktext3{
+		font-size:22px;
+	}
+	#disclaimer p {
+		font-size:11px;
+	}
+	#member-a .text-left{
+		padding-top:0 !important;
+		padding-bottom:0px !important;
+	}
+	.profitable-strategy h3{
+		font-size:16px;
+	}
+	#quick-introduction-228 .title_info h2{
+		font-size:25px !important;
+	}
+	#investment-protect .money-back h4{
+	font-size:18px;
+	}
+	#header #headvideo{
+		padding-bottom:260px;
+	} 
+	#video{
+		margin-top:-270px !important;
+	}
+	.strategy h3{
+		font-size:17px;
+	}
+	.quick-introduction h3{
+		font-size:18px;
+	}
+	.trading-tool h3{
+		font-size:19px;
+	}
+	#investment-protect{
+		padding-top:73px;
+	}
+	a u b{
+		font-size:17px;
+	}
+	#investment-protect .money-back h5{
+	font-size:	17px;
+	}
+	.title_info h2{
+		font-size:28px !important;
+	}
+	div#fpdesign .title_info h2{
+		font-size:28px !important;
+	}
+	.support_sec .title_info h2{
+		font-size:28px !important ;
+	}
+	div#getstarted h2{
+		font-size:33px;
+	}
+	.strategy .title_info h2 strong{
+		font-size:31px !important;
+	}
+}
+
+@media screen and (max-width: 365px){
+	
+		#live-chart #videonew{
+		margin-bottom:223px;
+	}
+	
+	
+	
+}
+@media screen and (max-width: 414px) {
+	.mycontainer{
+		width:100%;
+		margin-top:-33px;
+		
+	}
+	#live-chart .click {
+		margin-bottom:40px;
+	}
+	#header .home-banner #secondvid{
+		margin-bottom:-65px !important;
+	}
+	#header .home-banner .excerpt{
+		padding-bottom:70px;
+	}
+	#member-a h3{
+		font-size:22px;
+	}
+	#member-a center span b{
+		font-size:15px;
+	}
+
+.copy-link .pull-left{
+	font-size:13px;
+}
+#member-a #text22 strong{
+	font-size:21px;
+}
+#member-a font{
+	font-size:16px;
+}
+#member-a  h4{
+	font-size:15px;
+}
+	#quick-introduction-1 h3{
+		font-size:19px !important;
+		
+	}
+	#quick-introduction-1 h3 u{
+		font-size:20px;
+		
+	}
+#member-a	#text1488{
+	font-size:19px;
+}
+#member-a figure 	#boximg{
+		max-width:82%
+	}
+	#member-a h3 strong{
+		font-size:24px;
+	}
+	#header #headvideo{
+		padding-bottom:266px;
+	} 
+	#video{
+		margin-top:-269px !important;
+	}
+	.mycenter{
+		margin:auto;
+		width:144px;
+		
+	}
+	.mycontainertext{
+		width:100%;
+		margin-top:-40px;
+		
+	}
+	.mytext1 h3 {
+		
+		color:#fff;
+		text-align:center;
+		
+	}
+	.mytext2{
+		padding:0;
+		margin-left:84px;
+		margin-right:0;
+		text-align:left;
+		font-size:15px;
+	}
+	#step{
+		font-size:17px;
+	}
+	.mytext3{
+		text-align:center;
+		margin:0;
+		margin-bottom:-10px;
+	}
+}
+@media screen and (max-width: 384px) {
+	.mycontainer{
+		width:100%;
+		margin-top:-33px;
+		
+	}
+	#live-chart #videonew{
+		margin-bottom:248px;
+	}
+	#header #headvideo{
+		padding-bottom:248px;
+	} 
+	#video{
+		margin-top:-248px !important;
+	}
+	
+	.mycenter{
+		margin:auto;
+		width:144px;
+		
+	}
+	.mytext2 b{
+		margin-left:-1px;
+	}
+	.mycontainertext{
+		width:100%;
+		margin-top:-40px;
+		
+	}
+	.mytext1 h3 {
+		
+		color:#fff;
+		text-align:center;
+		font-size:18px;
+		
+	}
+	.mytext1{
+		
+	}
+	.mytext2{
+		padding-left:7px;
+		margin-left:0px;
+		margin-right:0;
+		text-align:left;
+		font-size:15px;
+		
+	}
+	#step{
+		font-size:17px;
+		margin:0;
+	}
+	.mytext3{
+		text-align:center;
+		margin:0;
+		margin-bottom:-10px;
+	}
+	#protect-account .title_info h2{
+		font-size:32px !important;
+	}
+	#protect-account h3{
+		font-size:19px;
+	}
+	.quick-introduction p{
+		font-size:14px !important;
+		
+	}
+ .title_info h3{
+	 font-size:23px !important;
+ }
+ .developed_sec .title_info h2 strong{
+	 font-size:23px !important;
+	  line-height: 0.2;
+ }
+ .developed_sec h1 strong{
+	 font-size :27px;
+ }
+ .developed_sec center u  b{
+	 font-size:15px;
+ }
+ .losing-mistake .title_info h2{padding-bottom:13px;}
+ .quick-introduction p{
+	 font-size:18px;
+ }
+  .quick-introduction p strong{
+	 font-size:15px;
+ }
+ .trading-tool h3{
+	 font-size:14px;
+ }
+ .trading-tool a u b {
+	 font-size:16px;
+ }
+ .secret-sauce h3{
+	 font-size:18px;
+ }
+ .secret-sauce p{
+	 font-size:14px;
+ }
+ .secret-sauce  .title_info h2{
+	 font-size:22px !important;
+}
+.losing-mistake .title_info h2{
+	font-size:24px !important;
+}
+.strategy .title_info h2 strong{
+	font-size:26px;
+}
+.strategy h3{
+	font-size:19px;
+	margin-top:20px;
+}
+.strategy b strong{
+	font-size:17px;
+}
+#faq{
+	padding-top:0;
+}
+.support_sec .title_info h2{
+	font-size:30px !important;
+}
+div#getstarted h2{font-size:27px;}
+
+div#fpdesign .title_info h2{
+	
+	font-size:30px !important;
+}
+div#fpdesign a u div{
+	margin-left:23px;
+	font-size:15px;
+}
+.rich-forex .title_info h2{
+	font-size:26px !important;
+}
+.title_info h2{
+	font-size:26px !important;
+}
+.rich-forex p{
+	font-size:14px;
+	/* margin-left:15px;
+	margin-right:15px; */
+}
+div#fpdesign .fpdesign_inner .today-price{
+	padding-top:28px;
+}
+#footer ul li a{
+	font-size:9px;
+}
+}
+@media screen and (max-width: 360px) {
+	#member-a center span b{
+		font-size:15px;
+	}
+	#member-a a{
+		font-size:13px;
+	}
+	#header .home-banner #secondvid{
+		margin-bottom:-66px !important;
+	}
+	#header #headvideo{
+		padding-bottom:150px;
+	}
+	.copy-link .pull-left{
+		font-size:9px;
+	}
+	#member-a .text-center p{
+		font-size:10px;
+	}
+	#member-a h3 strong{
+		font-size:21px;
+	}
+	#member-a h3{
+		font-size:22px;
+	}
+	
+	#member-a #text22 strong{
+		font-size:17px;
+	}
+	#member-a font #texta{
+		font-size:11px;
+	}
+	#video{
+		margin-top:-212px !important;
+	}
+	#header .home-banner .excerpt{
+		margin-bottom:14px;
+	}
+	
+	
+}
+
+@media screen and (max-width: 330px){
+		#live-chart #videonew{
+		margin-bottom:208px;
+	}
+}
+
+
+
+   /*******************  Advantages of Forex Section Responsive Css  ***********************/     
+    
+    #advantages-of-forex .detials .block p {
+
+    width: 60%;
+    font-size: 13px;
+
+}
+    
+        
+    .title_info span{
+        /*display:none;*/
+    }
+    .title_info h2{
+        /* margin: 20px 0 0 0!important; */
+        font-size: 36px !important;
+    }
+    
+    
+      /*******************   Top Features  Section  Responsive Css  ***********************/
+      
+      
+      .top-features ul {
+  
+    width: 100%;
+}
+      
+      
+      /*******************    Investment Protect Section    Responsive Css  ***********************/
+      
+	  /**   #investment-protect .money-back{
+        width:100%;
+      }
+      #investment-protect .money-back img{
+        width:100%;
+      }
+      **/
+        /*******************     Support Section  Responsive Css  ***********************/
+        
+      
+    
+   
+  /* div#fpdesign .cards .visa img {
+    width: 40px;
+
+}*/
+.footer_inner p {
+    font-size: 15px;
+}
+
+
+
+
+
+
+
+
+
+.circle_block{
+		margin: 3% 0 0;
+	}
+	.circle_block > ul{
+    width: 100%;
+    float: left;
+    padding: 0;
+    margin: 0;
+		text-align: center;
+	}
+	.circle_block > ul > li{
+    padding: 0!important;
+    margin: 0 4px -20px 4px!important;
+    display: inline-block!important;
+		vertical-align: top!important;
+	}
+	.circle_block > ul li .circle{
+    width: 200px;
+		height: 200px;
+    float: none;
+    padding: 0;
+    margin: 0 auto;
+    display: block;
+    background: #51005e;
+    border-radius: 50%;
+	}
+	.circle_block > ul li .circle > div{
+		padding: 8%;
+		display: block;
+	}
+	.circle_block > ul li .circle > div .image{
+		width: 100%;
+		padding: 0 0 8%;
+		height: auto;
+		display: block;
+	}
+	.circle_block > ul li .circle > div .image > img{
+		max-width: 100%;
+	}
+	.circle_block > ul li .circle h3{
+    padding: 0;
+		margin: 0;
+		color: #ffffff;
+		font-size: 15px;
+		line-height: 15px;
+		text-transform: uppercase;
+		font-family: 'Roboto Condensed', sans-serif;
+		font-weight: 600;
+	}
+	.circle_block > ul li.pc-hidden{
+		display: none!important;
+	}
+	@media screen and (max-width: 990px) {
+		.circle_block > ul > li{
+			margin: 0 4px -15px 4px!important;
+		}
+		.circle_block > ul li .circle{
+			width: 150px;
+			height: 150px;			
+		}
+		.circle_block > ul li .circle h3{
+			font-size: 12px;
+			line-height: 12px;
+		}
+	}
+	@media screen and (max-width: 690px) {
+		.circle_block > ul > li{
+			margin: 0 4px 8px 4px!important;
+		}
+		.circle_block > ul li .circle{
+			width: 250px;
+			height: 250px;			
+		}
+		.circle_block > ul li .circle h3{
+			font-size: 20px;
+			line-height: 20px;
+		}
+		.circle_block > ul li.pc-hidden{
+			display: inline-block!important;
+		}
+		.circle_block > ul li.modile-hidden{
+			display: none!important;
+		}
+		.fadeInUp{
+			animation-name: none!important;
+		}
+	}
+	/* Доработка под тег input-image */
+	@media screen and (max-width: 990px) {
+		input[type="image"]{
+			max-width: 100%;
+			margin-top: 40px;
+		}
+		.wbckg {
+			font-size: 17px;
+		}
+	}
+	@media screen and (max-width: 690px) {
+		input[type="image"]{
+			max-width: 100%;
+			margin-top: 40px;
+		}
+		.wbckg {
+			font-size: 14px;
+		}
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*************** Trading Sec ***************/
+.trading_sec{ width:100%; float:left; padding:150px 0 0 0; margin:0; background:url(../images/trading_bg.jpg) no-repeat center top; background-size:100% auto;}
+.trading_sec .trade_info{ width:100%; float:left; padding:0; margin:0; text-align:center; }
+.trading_sec .trade_info ul{ width:100%; float:left; padding:0; margin:0;}
+.trading_sec .trade_info ul li{ padding:0; margin:0 36px -40px 36px; display:inline-block;}
+.trading_sec .trade_info .block{ width:170px; height:170px; float:none; padding:0; margin:0 auto; display:block; background:#80b2a7; border-radius:10px; transform:rotate(45deg);}
+.trading_sec .trade_info .block .inner{ width:100%; float:left; padding:0 10px; margin:0; text-align:center; transform:rotate(-45deg); position:relative; left:-13px;}
+.trading_sec .trade_info .block .position1 { left: -10px; }
+.trading_sec .trade_info .block .position2 { left: -14px; }
+.trading_sec .trade_info .block .position3 { left: -9px; }
+.trading_sec .trade_info .block .position4 { left: -18px; }
+.trading_sec .trade_info .block .position5 { left: -20px; }
+.trading_sec .trade_info .block .position6 { left: -10px; }
+.trading_sec .trade_info .block .position7 { left: -18px; }
+.trading_sec .trade_info .block .position8 { left: -10px; }
+.trading_sec .trade_info .block .position9 { left: -20px; }
+.trading_sec .trade_info .block .count{ padding:0; margin:0; font-size:108px; color:#ffffff; font-weight:700; font-family: 'Roboto Condensed', sans-serif; opacity:0.2; position:absolute; left:0; top:20px; right:0;}
+.trading_sec .trade_info .block i{ padding:0; margin:12px 0 10px 0; display:block;}
+.trading_sec .trade_info .block h3{ padding:0; margin:0; font-size:18px; color:#ffffff; line-height:22px; text-transform:uppercase; font-weight:700;}
+.trading_sec .trade_info ul.second .block{ background:#54897d;}
+.trading_sec .trade_info ul.third .block{ background:#346158;}
+.trading_sec .title_info { padding: 50px 0 50px 0; }
+.trading_sec h2{ font-size: 44px !important; }
+.trading_sec .title_main { padding: 4px 0; margin: 40px 0 75px 0; font-size: 64px; clear: both; text-align: center; background-color: #e6f4f2; color: #628f8f; }
+.trading_sec .title_main .marked { font-size: 54px; padding: 20px; background-image: url(../images/title_bckgr.png); background-repeat: no-repeat; background-position: center center; background-size: 100%; }
+.trading_sec .title_main h2 { font-weight: bold; }
+.trading_sec .title_main .robot { font-size: 60px;  }
+.trading_sec .title_main .version { font-size: 92px; color: #eec228; line-height: 80px; }
+
+.trading_sec .click{ width:100%; float:left; padding:0; margin:0 0 60px 0; font-size:22px; color:#628f8f; text-transform:uppercase; font-family: 'Roboto Condensed', sans-serif; font-weight:600;}
+.trading_sec .click a{ color:#023bcb; text-decoration:underline; letter-spacing: 1px; }
+.trading_sec .click a:hover{ color:#eec228;}
+
+.trade_desc{ width:100%; float:left; padding:0; margin:0 0 50px 0;}
+.trade_desc .inner{ width:100%; float:left; padding:0; margin:-70px 0 0 0;}
+.trade_desc .inner p{ padding:0; margin:0 0 30px 0; font-size:15px; color:#5e5e5e; line-height:22px; font-weight:400;}
+.trade_desc .inner p b{ font-size:36px; color:#eec228; font-weight:700; font-family: 'Roboto Condensed', sans-serif;}
+.trade_desc .inner p strong{ color:#d0b03d; font-size:18px; font-weight:600;}
+.trade_desc figure{ width:100%; float:left; padding:0; margin:70px 0 0 0; text-align:center;}
+
+ul.trade_list{ width:100%; float:left; padding:0; margin:0 0 45px 0; text-align:center;}
+ul.trade_list li{ min-height:65px; padding:0 0 0 95px; margin:0 20px; text-align:left; display:inline-flex; font-size:22px; color:#5e5e5e; font-family: 'Roboto Condensed', sans-serif; background:url(../images/trade_list_arrow.png) no-repeat left top;}
