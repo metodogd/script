@@ -3280,7 +3280,7 @@ padding: 0px;
 		max-width:37%;
 	}
 	#header #headvideo{
-		padding-bottom:366px;
+		padding-bottom:0px;
 	} 
 	#video{
 		margin-top:-404px !important;
@@ -3382,7 +3382,7 @@ padding: 0px;
 		display:none !important;
 	}
 	#header #headvideo{
-		padding-bottom:366px;
+		padding-bottom:0px;
 	} 
 	#video{
 		margin-top:-450px !important;
@@ -3998,7 +3998,7 @@ padding: 0px;
 	font-size:18px;
 	}
 	#header #headvideo{
-		padding-bottom:260px;
+		padding-bottom:0px;
 	} 
 	#video{
 		margin-top:-270px !important;
@@ -4099,7 +4099,7 @@ padding: 0px;
 		font-size:24px;
 	}
 	#header #headvideo{
-		padding-bottom:266px;
+		padding-bottom:0px;
 	} 
 	#video{
 		margin-top:-269px !important;
@@ -4146,7 +4146,7 @@ padding: 0px;
 		margin-bottom:248px;
 	}
 	#header #headvideo{
-		padding-bottom:248px;
+		padding-bottom:0px;
 	} 
 	#video{
 		margin-top:-248px !important;
@@ -4295,7 +4295,7 @@ div#fpdesign .fpdesign_inner .today-price{
 		margin-bottom:-66px !important;
 	}
 	#header #headvideo{
-		padding-bottom:150px;
+		padding-bottom:0px;
 	}
 	.copy-link .pull-left{
 		font-size:9px;
