@@ -278,14 +278,14 @@ strong font{
     background-size: cover;
     text-align: CENTER;
     padding-top: 30px;
-    /*padding-bottom:158px;*/
+    /*padding-bottom:458px;*/
     /*margin-bottom: -158px;*/
 }
 #header .home-banner .excerpt{
     padding-bottom:-50px;
 }
 #header #headvideo{
-    padding-bottom:366px;
+    padding-bottom:-166px;
 }
 #header .home-banner .excerpt h1{
     font-size: 63px;
