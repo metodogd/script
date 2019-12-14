@@ -274,7 +274,7 @@ strong font{
 }
 
 #header .home-banner{
-    background: url(https://i.imgur.com/VhtR3epg.jpg)no-repeat top center;
+    background: url()no-repeat top center;
     background-size: cover;
     text-align: CENTER;
     padding-top: 30px;
@@ -285,7 +285,7 @@ strong font{
     padding-bottom:-50px;
 }
 #header #headvideo{
-    padding-bottom:-166px;
+    padding-bottom: 366px;
 }
 #header .home-banner .excerpt h1{
     font-size: 63px;
