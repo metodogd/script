@@ -171,7 +171,7 @@ strong font{
  height: 55px;
  display: block;
  margin-bottom: 7px;
-  background: #51005e;
+  background: #2683d4;
  background: url(https://i.imgur.com/9KdRigB.png) no-repeat center center;
 
  /* rounded corners */
@@ -256,7 +256,7 @@ strong font{
 .faq-container{
     width: 90%;
     padding: 40px;
-    border: 4px solid #51005e;
+    border: 4px solid #2683d4;
     background: #f1f2f2;
 }
 #faq .faq-separator{
@@ -334,7 +334,7 @@ strong font{
 }
 #slider-bottom h2{
     font-size: 50px;
-    color:#51005e;
+    color:#2683d4;
     font-weight: 800;
     margin: 0;
 }
@@ -345,7 +345,7 @@ strong font{
 }  
   #slider-bottom h4{
      font-size: 58px;
-    color:#51005e;
+    color:#2683d4;
     text-transform: uppercase;
     font-weight: 800;
     margin: 0;
@@ -395,7 +395,7 @@ strong font{
 #whats-new h2{
     font-size:40px;
     font-weight:800;
-    color:#51005e;
+    color:#2683d4;
     text-align: center;
 }
 #whats-new h2 span{
@@ -428,7 +428,7 @@ strong font{
     padding: 0;
     margin: 0 auto;
     display: block;
-    background: #51005e;
+    background: #2683d4;
     border-radius: 10px;
     transform: rotate(45deg);
 }
@@ -541,13 +541,13 @@ a u b{
 
 .whats-new_desc .inner p b {
     font-size: 36px;
-    color: #51005e;
+    color: #2683d4;
     font-weight: 700;
     font-family: 'Roboto Condensed', sans-serif;
 }
 
 .whats-new_desc .inner p strong {
-    color: #51005e;
+    color: #2683d4;
     font-size: 18px;
     font-weight: 600;
 }
@@ -590,7 +590,7 @@ ul.trade_list li{ min-height:65px; padding:0 0 0 95px; margin:0 20px; text-align
         padding: 0;
     margin: -87px 0 0 0;
     font-size: 48px;
-    color: #51005e;
+    color: #2683d4;
     font-weight: 800;
     text-transform: uppercase;
 }
