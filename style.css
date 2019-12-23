@@ -606,7 +606,7 @@ ul.trade_list li{ min-height:65px; padding:0 0 0 95px; margin:0 20px; text-align
   }
 
 
-#live-chart .title_info h2 strong{ color:#51005e;font-weight: 800;}
+#live-chart .title_info h2 strong{ color:#2683d4;font-weight: 800;}
     
  #live-chart h3{
     color: #141414;
@@ -877,7 +877,7 @@ width: 190px;
     padding: 0;
     margin: 35px 0 0 0;
     text-align: center;
-    background: #51005e;
+    background: #2683d4;
     border-radius: 3px;
     position: relative;
     box-shadow: 0 0 8px rgba(0, 0, 0, 0.3);
@@ -976,7 +976,7 @@ width: 190px;
      margin: -70px 0 0 0;
 }
 .developed_sec .title_info h2 strong {
-    color: #51005e;
+    color: #2683d4;
     font-weight: 900;
 }
 .developed img.lcd-pic{
@@ -1046,7 +1046,7 @@ width: 190px;
     margin: -80px 0 0 0;
 }
 .strategy .title_info h2 strong {
-    color: #51005e;
+    color: #2683d4;
     font-weight: 900;
 }
 .strategy h3 {
@@ -1057,7 +1057,7 @@ width: 190px;
 }
 .strategy h3 strong{
  
-    color:#51005e;
+    color:#2683d4;
     font-weight: 900;
 }
 .strategy p{
@@ -1170,7 +1170,7 @@ width: 190px;
     padding-bottom:50px;
 }
 .losing-mistake .title_info h2 strong {
-    color: #51005e;
+    color: #2683d4;
     font-weight: 900;
 }
     .losing-mistake p{
@@ -1216,7 +1216,7 @@ width: 190px;
        
 }
 .quick-introduction  .title_info h2{
-     color: #51005e;
+     color: #2683d4;
     font-size: 45px;
     font-weight: 900;
     margin: -73px 0 0 0;
@@ -1224,7 +1224,7 @@ width: 190px;
     
 }
 .quick-introduction  .title_info h2 strong {
-    color: #51005e;
+    color: #2683d4;
     font-weight: 900;
 }
 .quick-introduction h3{
@@ -1234,7 +1234,7 @@ width: 190px;
     padding-bottom:28px;
 }
 .quick-introduction h3 strong{
-    color:#51005e;
+    color:#2683d4;
     font-weight:900;
 }
 
@@ -1278,7 +1278,7 @@ width: 190px;
 
 }
 #member-a   .title_info h2{
-    color: #51005e;
+    color: #2683d4;
     font-size: 45px;
     font-weight: 900;
     margin: -80px 0 0 0;
@@ -1286,7 +1286,7 @@ width: 190px;
 
 }
 #member-a  .title_info h2 strong {
-    color: #51005e;
+    color: #2683d4;
     font-weight: 900;
 }
 #member-a h3{
@@ -1296,7 +1296,7 @@ width: 190px;
     padding-bottom:0px;
 }
 #member-a h3 strong{
-    color:#51005e;
+    color:#2683d4;
     font-weight:900;
 }
 
@@ -1331,7 +1331,7 @@ width: 190px;
        
 }
 .profitable-strategy  .title_info h2{
-     color: #51005e;
+     color: #2683d4;
     font-size: 45px;
     font-weight: 900;
     margin: -92px 0 0 0;
@@ -1339,7 +1339,7 @@ width: 190px;
     
 }
 .profitable-strategy  .title_info h2 strong {
-    color: #51005e;
+    color: #2683d4;
     font-weight: 900;
 }
   .profitable-strategy h3{
@@ -1349,7 +1349,7 @@ width: 190px;
     padding-bottom:28px;
 }
 .profitable-strategy h3 strong{
-    color:#51005e;
+    color:#2683d4;
     font-weight:900;
 }
 
@@ -1415,7 +1415,7 @@ width: 190px;
     
 }
 .secret-sauce  .title_info h2 strong {
-    color: #51005e;
+    color: #2683d4;
     font-weight: 900;
 }
   .secret-sauce h3{
@@ -1434,7 +1434,7 @@ width: 190px;
 }
 
 .secret-sauce h3 strong{
-    color:#51005e;
+    color:#2683d4;
     font-weight:900;
 }
    .secret-sauce p{
@@ -1510,7 +1510,7 @@ width: 190px;
        
 }
 .testing-years  .title_info h2{
-     color: #51005e;
+     color: #2683d4;
     font-size: 45px;
     font-weight: 900;
     margin: -80px 0 0 0;
@@ -1518,7 +1518,7 @@ width: 190px;
     
 }
 .testing-years .title_info h2 strong {
-    color: #51005e;
+    color: #2683d4;
     font-weight: 900;
 }
   .testing-years h3{
@@ -1528,7 +1528,7 @@ width: 190px;
     padding-bottom:28px;
 }
 .testing-years h3 strong{
-    color:#51005e;
+    color:#2683d4;
     font-weight:900;
 }   
     .testing-years p{
@@ -1550,7 +1550,7 @@ width: 190px;
 
 .tab_info .nav-tabs {
     border-bottom: none;
-    border-top: 7px solid #51005e;
+    border-top: 7px solid #2683d4;
     background: #f5f5f5;
 }
 
@@ -1562,7 +1562,7 @@ width: 190px;
     border: none;
     padding: 17px 10px;
     font-size: 24px;
-    color: #51005e;
+    color: #2683d4;
     font-weight: 700;
     font-family: 'Roboto Condensed', sans-serif;
     border-radius: 0;
@@ -1600,7 +1600,7 @@ width: 190px;
 .tab_info .nav-tabs.nav-justified > .active > a:hover,
 .tab_info .nav-tabs.nav-justified > .active > a:focus {
     color: #fff;
-    background: #51005e;
+    background: #2683d4;
     border: none;
     border-top: none;
     border-left: none;
@@ -1667,7 +1667,7 @@ width: 190px;
 
 .addition_info h3 span.pair {
     font-size: 36px;
-    color: #51005e;
+    color: #2683d4;
     font-weight: 700;
 }
 
@@ -1763,7 +1763,7 @@ width: 190px;
     padding: 0 0 0 15px;
     margin-top: -10px;
     font-size: 20px;
-    color: #51005e;
+    color: #2683d4;
     font-family: 'Roboto Condensed', sans-serif;
     font-weight: 700;
     text-align: left;
@@ -1774,7 +1774,7 @@ width: 190px;
 }
 
 .addition_info .details .values .progress .progress-bar {
-    background-color: #51005e;
+    background-color: #2683d4;
 }
 
 .addition_info .graph_image {
@@ -1815,7 +1815,7 @@ width: 190px;
     padding-bottom: 50px;
 }
 .trading-tool .title_info h2 strong {
-    color: #51005e;
+    color: #2683d4;
     font-weight: 900;
 }
 .trading-tool h3{
@@ -1827,7 +1827,7 @@ width: 190px;
 }
 .trading-tool h3 strong{
     font-weight:900;
-    color:#51005e;
+    color:#2683d4;
     
 }
 .trading-tool p{
@@ -1841,7 +1841,7 @@ width: 190px;
   }
  
  .trading-tool p strong{
-    color: #51005e;
+    color: #2683d4;
  }
  
   /*********** Protect Trading Account Section css **********/  
@@ -1869,14 +1869,14 @@ width: 190px;
        
 }
 #protect-account .title_info h2{
-       color: #51005e;
+       color: #2683d4;
     font-size: 36px;
     font-weight: 900;
     margin: -72px 0 0 0;
     padding-bottom: 50px;
 }
 #protect-account .title_info h2 strong {
-    color: #51005e;
+    color: #2683d4;
     font-weight: 900;
 }
 #protect-account h3{
@@ -1888,7 +1888,7 @@ width: 190px;
 }
 #protect-account h3 strong{
     font-weight:900;
-    color:#51005e;
+    color:#2683d4;
     
 }
      #protect-account p{
@@ -1900,7 +1900,7 @@ width: 190px;
   }
  
  #protect-account p strong{
-    color: #51005e;
+    color: #2683d4;
     font-weight: 900;
  }
  
@@ -1941,7 +1941,7 @@ width: 190px;
 }
 
 .top-features .title_info h2 strong {
-    color: #51005e;
+    color: #2683d4;
     font-weight: 900;
 }
  
@@ -2009,7 +2009,7 @@ width: 190px;
        
 }
 #trading-profit .title_info h2{
-       color: #51005e;
+       color: #2683d4;
     font-size: 36px;
     font-weight: 900;
     margin: -72px 0 0 0;
@@ -2017,7 +2017,7 @@ width: 190px;
 	
 }
 #trading-profit .title_info h2 strong {
-    color: #51005e;
+    color: #2683d4;
     font-weight: 900;
 }  
    
@@ -2030,7 +2030,7 @@ width: 190px;
 }
 #trading-profit  h3 strong{
     font-weight:900;
-    color:#51005e;
+    color:#2683d4;
     
 }
 #trading-profit .detail{
@@ -2054,7 +2054,7 @@ width: 190px;
    }
  
 #trading-profit .details p strong{
-    color: #51005e;
+    color: #2683d4;
     font-weight: 900;
  }
  
@@ -2082,7 +2082,7 @@ width: 190px;
     text-align: CENTER;
 }
 #investment-protect .title_info h2 strong {
-    color: #51005e;
+    color: #2683d4;
     font-weight: 900;
 }  
    
@@ -2110,7 +2110,7 @@ width: 190px;
     margin-top:-135px;
   }
       #investment-protect .money-back h4{
-            background: #51005e;
+            background: #2683d4;
     color: #fff;
     padding-top: 15px;
     padding-bottom: 15px;
@@ -2157,7 +2157,7 @@ width: 190px;
     text-align: CENTER;
 }
  #three-steps .title_info h2 strong {
-    color: #51005e;
+    color: #2683d4;
     font-weight: 900;
 }  
  #three-steps  .click {
@@ -2415,7 +2415,7 @@ div#getstarted h2 {
     text-decoration: none;
     width: 100%;
     max-width: 323px;
-    background: #51005e;
+    background: #2683d4;
     text-transform: capitalize;
     font-size: 32px;
     padding: 20px 30px;
@@ -2437,7 +2437,7 @@ div#getstarted h2 {
 
 
    div#fpdesign .title_info h2{
-   color: #51005e;
+   color: #2683d4;
     font-size: 36px;
     font-weight: 900;
     margin: -80px 0 0 0;
@@ -2445,7 +2445,7 @@ div#getstarted h2 {
     text-align: CENTER;
 }
 #fpdesign .title_info h2 strong {
-    color: #51005e;
+    color: #2683d4;
     font-weight: 900;
 } 
 #fpdesign .title_info span {
@@ -2458,7 +2458,7 @@ div#getstarted h2 {
     font-family: 'Raleway', sans-serif;
     font-size: 30px;
     font-weight: normal;
-    color: #51005e;
+    color: #2683d4;
     text-align: center;
 }
 
@@ -3040,15 +3040,15 @@ padding: 0px;
       top: 0px;
 }
 .addition_info h3{
-    border-right: 7px solid #51005e;
+    border-right: 7px solid #2683d4;
 }
 
   /*******************   17 years of Testing  Section  Responsive Css  ***********************/
 
 .panel-default > .panel-heading {
     color: #fff;
-    background-color: #51005e;
-    border-color: #51005e;
+    background-color: #2683d4;
+    border-color: #2683d4;
 }
 .panel-title small{
     color:#fff;
@@ -4415,7 +4415,7 @@ div#fpdesign .fpdesign_inner .today-price{
     padding: 0;
     margin: 0 auto;
     display: block;
-    background: #51005e;
+    background: #2683d4;
     border-radius: 50%;
 	}
 	.circle_block > ul li .circle > div{
