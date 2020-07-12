@@ -1,0 +1,8 @@
+<script>
+   const llPopupId="D2AAE4A040C94069A48247C87049DFB4";
+   var llP = document.createElement("script");
+   llP.setAttribute("src", "https://pagina.group/scripts/capture/capture-popup.js");
+   document.addEventListener("DOMContentLoaded", function() {
+      document.body.appendChild(llP);
+   });
+</script>
